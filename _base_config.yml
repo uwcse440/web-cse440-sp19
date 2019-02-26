@@ -1,0 +1,124 @@
+config:
+  python:
+    # Python is currently pinned by this bug:
+    #   https://github.com/travis-ci/travis-ci/issues/9815
+    version: 3.6.6
+    pip_version: 18.0
+    # Invoke is currently pinned by this bug:
+    #   https://github.com/pyinvoke/invoke/issues/345
+    invoke_version: 0.12.2
+
+  node:
+    required: true
+    version: 10.14.1
+
+  ruby:
+    required: true
+    version: 2.5.1
+    bundler_version: 1.16.5
+
+  docker:
+    required: false
+
+    toolbox:
+      version: v18.09.1
+
+      macos:
+        cmd_bash: /bin/bash
+        cmd_dockermachine: /usr/local/bin/docker-machine
+      windows:
+        cmd_bash: c:\Program Files\Git\bin\bash
+        cmd_dockermachine: c:\Program Files\Docker Toolbox\docker-machine.exe
+
+    travis:
+      version: 1.11.2-0~trusty
+      compose_version: 1.8.0-rc1
+      compose_up_delay: 60
+
+  readme:
+    url_github: https://github.com/fogies/web-jekyll-base
+    url_github_readme: blob/master/README.md
+    url_github_readme_basedir: blob/master/readme
+
+    travis_badge: '[![Build Status](https://travis-ci.org/fogies/web-jekyll-base.svg?branch=master)](https://travis-ci.org/fogies/web-jekyll-base)'
+
+    working_directory_windows: c:/devel/web-jekyll-base
+    working_directory_mac: ~/Desktop/web-jekyll-base
+
+    invoke_readme_frequent:
+      - build_production
+      - build_test
+      - serve_production
+      - serve_test
+
+    invoke_readme_paths:
+      build_production: base/readme/invoke/build_production.md
+      build_test: base/readme/invoke/build_test.md
+      compile_config: base/readme/invoke/compile_config.md
+      compile_requirements: base/readme/invoke/compile_requirements.md
+      dependencies_ensure: base/readme/invoke/dependencies_ensure.md
+      dependencies_upgrade_base: base/readme/invoke/dependencies_upgrade_base.md
+      docker_console: base/readme/invoke/docker_console.md
+      docker_ip: base/readme/invoke/docker_ip.md
+      docker_localize: base/readme/invoke/docker_localize.md
+      docker_machine_ensure: base/readme/invoke/docker_machine_ensure.md
+      docker_start: base/readme/invoke/docker_start.md
+      docker_stop: base/readme/invoke/docker_stop.md
+      serve_production: base/readme/invoke/serve_production.md
+      serve_test: base/readme/invoke/serve_test.md
+
+    python_versions:
+      - version: 3.7.0
+        virtual_environment_name: env37
+        requirements_name: requirements3.txt
+        windows:
+          installer_url: https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
+          install_path: c:\Python37
+      - version: 3.6.6
+        virtual_environment_name: env36
+        requirements_name: requirements3.txt
+        windows:
+          installer_url: https://www.python.org/ftp/python/3.6.6/python-3.6.6.exe
+          install_path: c:\Python36
+
+    node_versions:
+      - version: 10.14.1
+        windows:
+          installer_url: https://nodejs.org/dist/v10.14.1/node-v10.14.1-x64.msi
+      - version: 8.12.0
+        windows:
+          installer_url: https://nodejs.org/dist/v8.12.0/node-v8.12.0-x64.msi
+
+    ruby_versions:
+      - version: 2.5.1
+        windows:
+          installer_url: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.5.1-2/rubyinstaller-devkit-2.5.1-2-x86.exe
+          install_path: c:\Ruby251
+
+    docker_toolbox_versions:
+      - version: v18.09.1
+        macos:
+          installer_url: https://github.com/docker/toolbox/releases/download/v18.09.1/DockerToolbox-18.09.1.pkg
+        windows:
+          installer_url: https://github.com/docker/toolbox/releases/download/v18.09.1/DockerToolbox-18.09.1.exe
+          install_path: c:\Program Files\Docker Toolbox
+
+compile_config:
+  entries:
+    - in:  README.md.in
+      out: README.md
+    - in:  readme/install_mac.md.in
+      out: readme/install_mac.md
+    - in:  readme/install_windows.md.in
+      out: readme/install_windows.md
+    - in:  readme/invoke.md.in
+      out: readme/invoke.md
+    - in:  requirements3.in.in
+      out: requirements3.in
+    - in:  .travis.yml.in
+      out: .travis.yml
+
+compile_docker_localize:
+  entries:
+    - in:  tests/full/docker/test_compose.yml
+      out: tests/full/docker/test_compose.localized.yml
