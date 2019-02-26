@@ -48,7 +48,7 @@ pip install -r requirements3.txt
 
 ## Installing Node
 
-[https://nodejs.org/dist/v8.12.0/node-v8.12.0-x64.msi](https://nodejs.org/dist/v8.12.0/node-v8.12.0-x64.msi)
+[https://nodejs.org/dist/v10.14.1/node-v10.14.1-x64.msi](https://nodejs.org/dist/v10.14.1/node-v10.14.1-x64.msi)
 
 The default installation options are appropriate.
 

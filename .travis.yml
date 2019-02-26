@@ -16,7 +16,7 @@ install:
   - python -m pip install -r requirements3.txt
 
   # Install Node
-  - nvm install 8.12.0
+  - nvm install 10.14.1
 
   # Install Ruby
   - rvm install 2.5.1
