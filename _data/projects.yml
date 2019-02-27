@@ -1,0 +1,37 @@
+projects:
+#   - name: "CODr"
+#     path: codr
+#     publishlink: true
+#   - name: "DigiFam"
+#     path: DigiFam
+#     publishlink: true
+#   - name: "Fika"
+#     path: fika
+#     publishlink: true
+#   - name: "Foodalytics"
+#     path: foodalytics
+#     publishlink: true
+#   - name: "Learnable"
+#     path: learnable
+#     publishlink: true
+#   - name: "Meetbright"
+#     path: Meetbright
+#     publishlink: true
+#   - name: "Quility"
+#     path: Quility
+#     publishlink: true
+#   - name: "RightUp"
+#     path: RightUp
+#     publishlink: true
+#   - name: "SnapCart"
+#     path: SnapCart
+#     publishlink: true
+#   - name: "Sounder Transit"
+#     path: sounder-transit
+#     publishlink: true
+#   - name: "Veterist"
+#     path: veterist
+#     publishlink: true
+#   - name: "Where's my Stuff"
+#     path: wheres_my_stuff
+#     publishlink: true
