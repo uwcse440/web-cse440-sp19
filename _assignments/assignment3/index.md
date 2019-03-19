@@ -2,29 +2,27 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 3: Getting the Design Right"
 
-due_project_3a: Uploaded Monday - due night before class - November 5, 2018
-link_project_3a: https://canvas.uw.edu/courses/1219632/assignments/4439141
-due_project_3b: Uploaded Wednesday - due night before class - November 7, 2018
-link_project_3b: https://canvas.uw.edu/courses/1219632/assignments/4439142
-due_project_3c: Uploaded Friday, November 9, 2018
-link_project_3c: https://canvas.uw.edu/courses/1219632/assignments/4439143
-due_project_3d: Uploaded Monday - due night before class - November 12, 2018
-link_project_3d: https://canvas.uw.edu/courses/1219632/assignments/4439144
-
-[//]: # (link_project_3d_critique: )
-due_project_3e: Uploaded Friday, November 16, 2018
-link_project_3e: https://canvas.uw.edu/courses/1219632/assignments/4439145
-due_project_3f: Uploaded Friday, November 30, 2018
-link_project_3f: https://canvas.uw.edu/courses/1219632/assignments/4439146
-due_project_3g: Critique in section Friday, November 30, 2018
-link_project_3g: https://canvas.uw.edu/courses/1219632/assignments/4439147
+[//]: # (due_project_3a: Uploaded Monday - due night before class - November 5, 2018)
+[//]: # (link_project_3a: https://canvas.uw.edu/courses/1219632/assignments/4439141)
+[//]: # (due_project_3b: Uploaded Wednesday - due night before class - November 7, 2018)
+[//]: # (link_project_3b: https://canvas.uw.edu/courses/1219632/assignments/4439142)
+[//]: # (due_project_3c: Uploaded Friday, November 9, 2018)
+[//]: # (link_project_3c: https://canvas.uw.edu/courses/1219632/assignments/4439143)
+[//]: # (due_project_3d: Uploaded Monday - due night before class - November 12, 2018)
+[//]: # (link_project_3d: https://canvas.uw.edu/courses/1219632/assignments/4439144)
+[//]: # (due_project_3e: Uploaded Friday, November 16, 2018)
+[//]: # (link_project_3e: https://canvas.uw.edu/courses/1219632/assignments/4439145)
+[//]: # (due_project_3f: Uploaded Friday, November 30, 2018)
+[//]: # (link_project_3f: https://canvas.uw.edu/courses/1219632/assignments/4439146)
+[//]: # (due_project_3g: Critique in section Friday, November 30, 2018)
+[//]: # (link_project_3g: https://canvas.uw.edu/courses/1219632/assignments/4439147)
 
 ---
 
-<!--div class="alert alert-danger" markdown="1">
+<div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed.
 Information here is likely suggestive of the final page, but remains subject to change.
-</div-->
+</div>
 
 # Overview
 

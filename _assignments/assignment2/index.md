@@ -2,33 +2,30 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 2: Getting the Right Design"
 
-due_project_2a: Completed in section Friday, October 12, 2018
-link_project_2a: https://canvas.uw.edu/courses/1219632/assignments/4439133
-due_project_2b: Uploaded Wednesday - due night before class - October 17, 2018
-link_project_2b: https://canvas.uw.edu/courses/1219632/assignments/4439134
-link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985
-due_project_2c: Completed before section Friday, October 19, 2018
-link_project_2c: https://canvas.uw.edu/courses/1219632/assignments/4439135
-due_project_2d: Uploaded Wednesday - due night before class - October 24, 2018
-link_project_2d: https://canvas.uw.edu/courses/1219632/assignments/4439136
-
-[//]: # (link_project_2d_critique:)
-due_project_2e: Uploaded Thursday - due night before section - October 25, 2018
-link_project_2e: https://canvas.uw.edu/courses/1219632/assignments/4439137
-due_project_2f: Completed in section Friday, October 26, 2018
-link_project_2f: https://canvas.uw.edu/courses/1219632/assignments/4439138
-link_project_2f_critique: https://canvas.uw.edu/courses/987987/assignments/3029342
-due_project_2g: Uploaded Wednesday - due night before class - October 31, 2018
-link_project_2g: https://canvas.uw.edu/courses/1219632/assignments/4439139
-due_project_2h: Uploaded Friday, November 2, 2018
-link_project_2h: https://canvas.uw.edu/courses/1219632/assignments/4439140
-
+[//]: # (due_project_2a: Completed in section Friday, October 12, 2018)
+[//]: # (link_project_2a: https://canvas.uw.edu/courses/1219632/assignments/4439133)
+[//]: # (due_project_2b: Uploaded Wednesday - due night before class - October 17, 2018)
+[//]: # (link_project_2b: https://canvas.uw.edu/courses/1219632/assignments/4439134)
+[//]: # (link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985)
+[//]: # (due_project_2c: Completed before section Friday, October 19, 2018)
+[//]: # (link_project_2c: https://canvas.uw.edu/courses/1219632/assignments/4439135)
+[//]: # (due_project_2d: Uploaded Wednesday - due night before class - October 24, 2018)
+[//]: # (link_project_2d: https://canvas.uw.edu/courses/1219632/assignments/4439136)
+[//]: # (due_project_2e: Uploaded Thursday - due night before section - October 25, 2018)
+[//]: # (link_project_2e: https://canvas.uw.edu/courses/1219632/assignments/4439137)
+[//]: # (due_project_2f: Completed in section Friday, October 26, 2018)
+[//]: # (link_project_2f: https://canvas.uw.edu/courses/1219632/assignments/4439138)
+[//]: # (link_project_2f_critique: https://canvas.uw.edu/courses/987987/assignments/3029342)
+[//]: # (due_project_2g: Uploaded Wednesday - due night before class - October 31, 2018)
+[//]: # (link_project_2g: https://canvas.uw.edu/courses/1219632/assignments/4439139)
+[//]: # (due_project_2h: Uploaded Friday, November 2, 2018)
+[//]: # (link_project_2h: https://canvas.uw.edu/courses/1219632/assignments/4439140)
 ---
 
-<!--div class="alert alert-danger" markdown="1">
+<div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed.
 Information here is likely suggestive of the final page, but remains subject to change.
-</div-->
+</div>
 
 # Overview
 

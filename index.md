@@ -16,11 +16,11 @@ The course covers a design process from the initial formulation of a design prob
 The class structure is a mix of lectures, classroom activities, and design critiques by peers and course staff.
 The course is organized around a group project, in which students:
 
-- Ideate and Propose Design Problems
-- Study Existing Practices and Challenges
-- Explore Potential Design Opportunities and Tradeoffs
-- Evaluate and Improve a Design
-- Communicate their Problem and Resulting Design
+- Ideate and propose __Design Problems__
+- Study existing __Design Practices__ and Challenges
+- Explore potential __Design Opportunities__ and Tradeoffs
+- __Evaluate Designs__
+- __Communicate__ the tackled problems and proposed designs
 
 ## Learning Objectives
 
@@ -34,20 +34,20 @@ The course is organized around a group project, in which students:
 
 __Contact__: Email all instructors at cse440-staff [at] cs.washington.edu
 
-__Class Time & Location__: Tuesdays & Thursdays, 11:30-12:50 OUG 141
+__Class Time & Location__: Tuesdays & Thursdays, 10:00-11:20 OUG 136
 
 __Section Times & Locations__: 
 
-- Fridays, 10:30-11:20 PAR 112
-- Fridays, 11:30-12:20 OUG 136
-- Fridays, 1:30-2:20 MGH 295
-- Fridays, 2:30-3:20 MGH 295
+- Fridays, 10:30-11:20 MGH 058
+- Fridays, 11:30-12:20 MGH 058
+- Fridays, 1:30-2:20 MGH 058
+- Fridays, 2:30-3:20 MGH 058
 
 __Office Hours__: 
 
 Pre-scheduled meetings are held by Nigini, Wednesday 10:00 to 12:00, CSE 218. (Please, send an email at least 24hs in advance.)
 
-Other meetings are possible by appointment. Please contact the TAs from your Friday sections.
+Other meetings are possible by appointment. Please request them through the staff emailing list.
 
 __Course Staff__:
 
@@ -58,16 +58,16 @@ __Course Staff__:
       <p><img src="{{ site.baseurl }}/images/nigini_photo.jpg" width="150" alt="Nigini Oliveira"/></p>
     </div>
     <div class="col-md-2">
-      <p>Manaswi Saha</p>
-      <p><img src="{{ site.baseurl }}/images/manaswi_photo.png" width="150" alt="Manaswi Saha"/></p>
+      <p>To be defined</p>
+      <p><img src="{{ site.baseurl }}/images/_photo.png" width="150" alt="To be defined"/></p>
     </div>
     <div class="col-md-2">
       <p>Liang He</p>
       <p><img src="{{ site.baseurl }}/images/liang_photo.png" width="150" alt="Liang He"/></p>
     </div>
     <div class="col-md-2">
-      <p>Jian Li Zheng</p>
-      <p><img src="{{ site.baseurl }}/images/jian_photo.jpg" width="150" alt="Jian Li Zheng"/></p>
+      <p>To be defined</p>
+      <p><img src="{{ site.baseurl }}/images/_photo.jpg" width="150" alt="To be defined"/></p>
     </div>
     <div class="col-md-2">
       <p>Jeremy Viny</p>
@@ -78,9 +78,9 @@ __Course Staff__:
 
 # Project Theme
 
-This year’s project theme will be “Designing for diversity”! You will be encouraged to design for groups of people who are different from yourself and/or to design for inclusiveness, connecting people from different backgrounds. 
+This quarter’s project theme will be __“Improve something out there”!__ This means you will have a unique change to pick some interactive piece of tech that already exists and re-think it to make people happier about using it. Although you can start with something you know and love (or hate) you will need to design for groups of people who are also different from yourself. We will aim to make a really exciting design contribution to a product or service that could be making more people happy.
 
-Computers and the Internet have changed many people's lives. However, many applications that we use in our daily lives are developed by Westerners and embed the developers' beliefs in what is useful and usable. 
+<!--Computers and the Internet have changed many people's lives. However, many applications that we use in our daily lives are developed by Westerners and embed the developers' beliefs in what is useful and usable. 
 For example, Facebook is extremely popular in many Western countries, but has failed to attract a large user base in Russia. Facebook is also not as popular with elderly and teens as it is with people between 25 and 45 of age. Similarly, Uber and Lyft have gained much attraction with economically prosperous young professionals, but are often seen with suspicion in economically strained parts of the US. Most of these problems in designing adequate technology and gaining market share arise because designers and developers can be insufficiently aware of the beliefs, preferences, needs, and prior experiences of people who are different from themselves.
 
 Over the course of the quarter, you will work as a group on designing a system to an activity or relationship within the particular context of a group of people that is not particularly well supported by current tools. Example groups that you could design for are: 
@@ -92,7 +92,7 @@ Over the course of the quarter, you will work as a group on designing a system t
 - Elderly
 - Local business owners
 - Workers
-- Interactions between these groups (or between yourselves and one of these groups)
+- Interactions between these groups (or between yourselves and one of these groups)-->
 
 As part of your project, you will need to define what a specific group's needs are that your project tries to support and what activity you would like to design that might help address this need.
 Think about how that activity is currently supported via technology, what doesn't work about current ways of supporting it, and how your solution will do this better. 
@@ -112,8 +112,8 @@ Projects are organized around four assignments, each consisting of several miles
 
 Get inspired by many great projects from previous quarters:
 
-- [Fall 2017 Projects](https://courses.cs.washington.edu/courses/cse440/17au/projects.html)
 - [Winter 2018 Projects](https://courses.cs.washington.edu/courses/cse440/18wi/projects.html)
+- [Fall 2018 Projects](https://courses.cs.washington.edu/courses/cse440/18au/projects.html)
 
 
 Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
@@ -186,6 +186,6 @@ The course staff has a large number of submissions to manage, so format and comp
 
 This course website lives on GitHub:
 
-<https://github.com/uwcse440/web-cse440-au18>
+<https://github.com/uwcse440/web-cse440-sp19>
 
 You can submit pull requests to update the webpage, and you will publish project webpages via pull request.

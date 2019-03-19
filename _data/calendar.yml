@@ -1,25 +1,25 @@
 dates_of_instruction:
-  start: "2018-09-23" # Must be a Sunday
-  end:   "2018-12-15" # Must be a Saturday
+  start: "2019-03-31" # Must be a Sunday
+  end:   "2019-06-15" # Must be a Saturday
 
 locations:
   lectures:
-    - time: "11:30 - 12:50"
-      location: "OUG 141"
+    - time: "10:00 - 11:20"
+      location: "OUG 136"
 
   exam:
-    - time: "11:30 - 12:50"
-      location: "OUG 141"
+    - time: "10:00 - 11:20"
+      location: "OUG 136"
 
   sections:
     - time: "10:30 - 11:20"
-      location: "PAR 112"
+      location: "MGH 058"
     - time: "11:30 - 12:20"
-      location: "OUG 136"
+      location: "MGH 058"
     - time: "1:30 - 2:20"
-      location: "MGH 295"
+      location: "MGH 058"
     - time: "2:30 - 3:20"
-      location: "MGH 295"
+      location: "MGH 058"
 
   sections_afternoononly:
     - time: "1:30 - 2:20"
@@ -44,104 +44,95 @@ locations:
   
   presentation:
     - time: "10:30-11:50"
-      location: "OUG 141"
+      location: "OUG 136"
 
 lectures:
-  - date: "2018-09-27"
+  - date: "2019-04-02"
     name: "Introduction and Project Overview"
-    slides: "slides/CSE440-01-Introduction.pdf"
+    #slides: "slides/CSE440-01-Introduction.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5e7b3a08-dcc7-41b8-a61d-0dc83414fc79"
-  - date: "2018-10-02"
+  - date: "2019-04-04"
     name: "History and State of the Art in HCI"
-    slides: "slides/CSE440-02-HistoryAndStateOfTheArtHCI.pdf"
+    #slides: "slides/CSE440-02-HistoryAndStateOfTheArtHCI.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=92ff6fa2-fcb9-4a18-8c96-2fff79fc1819"
     # notes: "Required for Project 2f"
-  - date: "2018-10-04"
+  - date: "2019-04-09"
     name: "Designing for Diversity"
-    slides: "slides/CSE440-03-DesigningForDiversity.pdf"
+    #slides: "slides/CSE440-03-DesigningForDiversity.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a96a0fe-329e-425f-ad99-32f80af30b85"
     # notes: "Required for Project 2b, Design Research Planning Over Weekend"
-  - date: "2018-10-09"
+  - date: "2019-04-11"
     #location: "lecturesdenny"
     name: "Design of Everyday Things"
-    slides: "slides/CSE440-04-DesignOfEverydayThings.pdf"
+    #slides: "slides/CSE440-04-DesignOfEverydayThings.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=287b2c2d-d3d7-4846-8070-ca695b76b4a4"
-  - date: "2018-10-11"
+  - date: "2019-04-16"
     name: "Design Process and Design Diamond"
-    slides: "slides/CSE440-05-DesignProcessAndDesignDiamond.pdf"
+    #slides: "slides/CSE440-05-DesignProcessAndDesignDiamond.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a5f61f1-c9c0-44c5-b765-7a5bb836b7ac"
     # notes: "Required for Project 2d"
-  - date: "2018-10-16"
+  - date: "2019-04-18"
     name: "User Research"
-    slides: "slides/CSE440-06-UserResearch.pdf"
+    #slides: "slides/CSE440-06-UserResearch.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b744838-59fc-44d0-aeab-31d89ba3a3a8"
-  - date: "2018-10-18"
+  - date: "2019-04-23"
     name: "Human Performance"
-    slides: "slides/CSE440-07-HumanPerformance.pdf"
+    #slides: "slides/CSE440-07-HumanPerformance.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20b59274-0923-40a6-afaa-143c55f52747"
-  - date: "2018-10-23"
+  - date: "2019-04-25"
     name: "Task Analysis"
-    slides: "slides/CSE440-08-TaskAnalysis.pdf"
+    #slides: "slides/CSE440-08-TaskAnalysis.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e89bb53c-9d11-422c-9642-e67ace2fc7a4"
     # notes: "Required for Project 2g"
-  - date: "2018-10-25"
+  - date: "2019-04-30"
     name: "Storyboarding"
-    slides: "slides/CSE440-09-Storyboarding.pdf"
+    #slides: "slides/CSE440-09-Storyboarding.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9d2db06b-a117-4d54-8817-bb1ddb79c116"
     # notes: "Required for Project 3a"
-  - date: "2018-10-30"
+  - date: "2019-05-02"
     #location: "lecturesdenny"
     name: "Paper Prototyping"
-    slides: "slides/CSE440-10-PaperPrototyping.pdf"
+    #slides: "slides/CSE440-10-PaperPrototyping.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a013100-67b2-46ce-9280-01063715084b"
     # notes: "Required for Project 3b"
-  - date: "2018-11-01"
+  - date: "2019-05-07"
     name: "Testing"
-    slides: "slides/CSE440-11-Testing.pdf"
+    #slides: "slides/CSE440-11-Testing.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f2be7adb-8aae-42fc-9204-a3da5df77e82"
-  - date: "2018-11-06"
+  - date: "2019-05-09"
     name: "Heuristic Evaluation"
     #slides: "https://canvas.uw.edu/courses/1219632/discussion_topics/4523704"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dca0f4a0-2c45-4656-a7b3-fddae52979d6"
-  - date: "2018-11-08"
+  - date: "2019-05-14"
     name: "Accessibility"
-    slides: "slides/CSE440-13-Accessibility.pdf"
+    #slides: "slides/CSE440-13-Accessibility.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75db126b-00c5-482b-8899-818a4da4391a"
-  - date: "2018-11-13"
+  - date: "2019-05-16"
     name: "Patterns"
-    slides: "slides/CSE440-14-Patterns.pdf"
+    #slides: "slides/CSE440-14-Patterns.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33a018b1-c498-44cd-9edf-30e238a6656d"
-  - date: "2018-11-15"
+  - date: "2019-05-21"
     name: "Interface Implementation"
     #slides: "slides/lecture/l17-videos.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13d54897-953d-4b90-a841-7e1e0c14145f"  
-  - date: "2018-11-20"
+  - date: "2019-05-23"
     name: "Recap and Exam Q&A Session"
     #slides: "slides/lecture/l17-videos.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13d54897-953d-4b90-a841-7e1e0c14145f"  
     
 
 sections:
-  - date: "2018-09-28"
-  - date: "2018-10-05"
-  - date: "2018-10-12"
-  - date: "2018-10-19"
-  - date: "2018-10-26"
-  - date: "2018-11-02"
-  - date: "2018-11-09"
-  - date: "2018-11-16"
-  - date: "2018-11-30"
-  - date: "2018-12-07"
+  - date: "2019-04-05"
+  - date: "2019-04-12"
+  - date: "2019-04-19"
+  - date: "2019-04-26"
+  - date: "2019-05-03"
+  - date: "2019-05-10"
+  - date: "2019-05-17"
+  - date: "2019-05-24"
+  - date: "2019-05-31"
+  - date: "2019-06-07"
 
-
-#    slides: "slides/section/s01-brainstorm.pdf"
-#    slides: "slides/section/s02-ideation.pdf"
-#    slides: "slides/section/s03-ci.pdf"
-#    slides: "slides/section/s04-tasks.pdf"
-#    slides: "slides/section/s05-design.pdf"
-#    slides: "slides/section/s07-paper.pdf"
-#    slides: "slides/section/s08-mockup.pdf"
-#    location: "lectures"
 
 assignments:
   - date: "2018-10-01"
@@ -225,37 +216,37 @@ assignments:
     link: "assignments/assignment4/#final_everything"
 
 majors:
-  - date: "2018-12-04"
+  - date: "2019-06-04"
     name: "Presentations"
     location: "presentation"
     #location: "lectures"
     #link: "assignments/assignment3/#presentation"
-  - date: "2018-12-06"
+  - date: "2019-06-06"
     name: "Presentations"
     location: "presentation"
     #location: "sections_morningonly"
     #link: "assignments/assignment3/#presentation"
-  - date: "2018-11-29"
+  - date: "2019-05-30"
     name: "Exam"
     location: "exam"
     #link: "slides/lecture/cse440-consolidated-17au.pdf"
-  - date: "2018-12-10"
+  - date: "2019-06-10"
     name: "Poster Session"
     location: "postersession"
     #link: "assignments/assignment4/#final_everything"
 
 aways:
-  - date: "2018-11-05"
-    name: Nigini at CSCW
-  - date: "2018-11-06"
-    name: Nigini at CSCW
-  - date: "2018-11-07"
-    name: Nigini at CSCW
-  - date: "2018-11-08"
-    name: Nigini at CSCW
-  - date: "2018-11-09"
-    name: Nigini at CSCW
-  - date: "2018-11-27"
+  - date: "2019-05-06"
+    name: Nigini at CHI
+  - date: "2019-05-07"
+    name: Nigini at CHI
+  - date: "2019-05-08"
+    name: Nigini at CHI
+  - date: "2019-05-09"
+    name: Nigini at CHI
+  - date: "2019-05-10"
+    name: Nigini at CHI
+  - date: "2019-05-28"
     name: NO CLASS
 
 
@@ -279,9 +270,5 @@ officehours:
 
 
 holidays:
-  - date: "2018-11-12"
-    name: "Veterans Day"
-  - date: "2018-11-22"
-    name: "Thanksgiving"
-  - date: "2018-11-23"
-    name: "Thanksgiving"
+  - date: "2018-05-27"
+    name: "Memorial Day"
