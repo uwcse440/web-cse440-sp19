@@ -58,16 +58,16 @@ __Course Staff__:
       <p><img src="{{ site.baseurl }}/images/nigini_photo.jpg" width="150" alt="Nigini Oliveira"/></p>
     </div>
     <div class="col-md-2">
-      <p>To be defined</p>
-      <p><img src="{{ site.baseurl }}/images/_photo.png" width="150" alt="To be defined"/></p>
+      <p>Abhinav Yadav</p>
+      <p><img src="{{ site.baseurl }}/images/abhinav_photo.jpg" width="150" alt="Abhinav Yadav"/></p>
     </div>
     <div class="col-md-2">
       <p>Liang He</p>
       <p><img src="{{ site.baseurl }}/images/liang_photo.png" width="150" alt="Liang He"/></p>
     </div>
     <div class="col-md-2">
-      <p>To be defined</p>
-      <p><img src="{{ site.baseurl }}/images/_photo.jpg" width="150" alt="To be defined"/></p>
+      <p>Angel Vuong</p>
+      <p><img src="{{ site.baseurl }}/images/angel_photo.jpg" width="150" alt="Angel Vuong"/></p>
     </div>
     <div class="col-md-2">
       <p>Jeremy Viny</p>
@@ -78,25 +78,11 @@ __Course Staff__:
 
 # Project Theme
 
-This quarter’s project theme will be __“Improve something out there”!__ This means you will have a unique change to pick some interactive piece of tech that already exists and re-think it to make people happier about using it. Although you can start with something you know and love (or hate) you will need to design for groups of people who are also different from yourself. We will aim to make a really exciting design contribution to a product or service that could be making more people happy.
+This quarter’s project theme will be __“Improve something out there”!__ This means you will have a unique chance to pick some interactive piece of tech that already exists and re-think it to make people happier about using it. Although you can start with something you know and love (or hate) you will also need to design for another group of people who is different from yourself. We will aim to make a really exciting design contribution to a product or service that will improve the user experience for different groups of people.
 
-<!--Computers and the Internet have changed many people's lives. However, many applications that we use in our daily lives are developed by Westerners and embed the developers' beliefs in what is useful and usable. 
-For example, Facebook is extremely popular in many Western countries, but has failed to attract a large user base in Russia. Facebook is also not as popular with elderly and teens as it is with people between 25 and 45 of age. Similarly, Uber and Lyft have gained much attraction with economically prosperous young professionals, but are often seen with suspicion in economically strained parts of the US. Most of these problems in designing adequate technology and gaining market share arise because designers and developers can be insufficiently aware of the beliefs, preferences, needs, and prior experiences of people who are different from themselves.
-
-Over the course of the quarter, you will work as a group on designing a system to an activity or relationship within the particular context of a group of people that is not particularly well supported by current tools. Example groups that you could design for are: 
-- Minorities 
-- Homeless
-- People with disabilities
-- People from different cultures
-- People with chronic conditions
-- Elderly
-- Local business owners
-- Workers
-- Interactions between these groups (or between yourselves and one of these groups)-->
-
-As part of your project, you will need to define what a specific group's needs are that your project tries to support and what activity you would like to design that might help address this need.
-Think about how that activity is currently supported via technology, what doesn't work about current ways of supporting it, and how your solution will do this better. 
-The specificity of addressing a particular group of people allows you to deeply think about what makes the group unique and how you would best want to support them. So, dive in and see what you can come up with! 
+As part of your project, you will start from a design domain that you are really interested into, for example, traveling, gaming, health care, etc. Then, you will need to define what are the specific user needs your project will support and what activity you would like to design that will help address these needs.
+Think about how that activity is currently supported, what doesn't work about current ways of supporting it, and how your solution will do this better. 
+The specificity of addressing particular groups of people allows you to deeply think about what makes each group unique and how your solution will best support them. So, dive in and see what you can come up with! 
 
 
 # Project Structure

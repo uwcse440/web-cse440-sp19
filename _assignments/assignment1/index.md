@@ -61,55 +61,37 @@ This assignment consists of three milestones.
 
 # Project Description
 
-This offering's project theme will be “Designing for diversity”! You will be encouraged to design for groups of people who are different from yourself and/or to design for inclusiveness, connecting people from different backgrounds. 
+This quarter’s project theme will be __“Improve something out there”!__ This means you will have a unique chance to pick some interactive piece of tech that already exists and re-think it to make people happier about using it. Although you can start with something you know and love (or hate) you will also need to design for another group of people who is different from yourself. We will aim to make a really exciting design contribution to a product or service that will improve the user experience for different groups of people.
 
-Computers and the Internet have changed many people's lives. However, many applications that we use in our daily lives are developed by Westerners and embed the developers' beliefs in what is useful and usable. 
-For example, Facebook is extremely popular in many Western countries, but has failed to attract a large user base in Russia. Facebook is also not as popular with elderly and teens as it is with people between 25 and 45 of age. Similarly, Uber and Lyft have gained much attraction with economically prosperous young professionals, but are often seen with suspicion in economically strained parts of the US. Most of these problems in designing adequate technology and gaining market share arise because designers and developers can be insufficiently aware of the beliefs, preferences, needs, and prior experiences of people who are different from themselves.
+As part of your project, you will start from a design domain that you are really interested into, for example, traveling, gaming, health care, etc. Then, you will need to define what are the specific user needs your project will support and what activity you would like to design that will help address these needs.
+Think about how that activity is currently supported, what doesn't work about current ways of supporting it, and how your solution will do this better. 
+The specificity of addressing particular groups of people allows you to deeply think about what makes each group unique and how your solution will best support them. So, dive in and see what you can come up with! 
 
-Over the course of the quarter, you will work as a group on designing a system to an activity or relationship within the particular context of a group of people that is not particularly well supported by current tools. Example groups that you could design for are: 
-- Minorities 
-- Homeless
-- People with disabilities
-- People from different cultures
-- People with chronic conditions
-- Elderly
-- Local business owners
-- Workers
-- Interactions between these groups (or between yourselves and one of these groups)
+## Thinking Broad
 
-As part of your project, you will need to define what a specific group's needs are that your project tries to support and what activity you would like to design that might help address this need.
-Think about how that activity is currently supported via technology, what doesn't work about current ways of supporting it, and how your solution will do this better. 
-The specificity of addressing a particular group of people allows you to deeply think about what makes the group unique and how you would best want to support them. So, dive in and see what you can come up with! 
-
-## Thinking Big
- 
-Your proposal must go beyond a technology-centric proposal of a webpage, phone application, or interaction. Instead think about
-the problems that people face in their lives, how we can approach those problems, and the role for interactive computing.
-This first assignment is your opportunity to think broadly about identifying a problem. Subsequent assignments will provide
-opportunities to focus on designing a specific technological solution to a specific set of tasks.
-
-You should identify and consider goals and activities that are important to people. 
+Think about the problems that people face in their lives, how we can approach those problems, and the role for interactive technology.
+Your proposal MUST go beyond a technology-centric proposal of a webpage, phone application, or interaction. 
+This first assignment is your opportunity to think broadly about __identifying a real and relevant problem__. Subsequent assignments will provide opportunities to focus on designing a specific technological solution to a specific set of tasks.
 
 Do not start with a focus on concrete one-time tasks (e.g., logging into your bank account). 
 Instead identify problems in long-lived activities that span many different social or technological contexts. 
 If you want to help people manage their money, do not immediately propose a website that addresses one specific task. 
 Instead consider the range of other opportunities (e.g., personal mobile devices, shared family computers, point of sale systems).
 
-Focus on creating or improving a specific application or service that addresses the issues of specific people.
+Focus on improving a specific application or service that addresses the issues of specific people.
 You must be able to create and evaluate a design within the timeframe of this course, so consider whether you 
 can reasonably gain access to the necessary people.
 
 We encourage you to think big, expanding your thinking to include new ideas for interaction techniques or technology platforms.
-Do not feel constrained by current devices, but instead aim to explore an exciting design that could potentially
-motivate the development of new enabling technology. For example, see how Artefact presents the Dialog concept.
+__Do not feel constrained by current devices__, but instead aim to explore an exciting design that could potentially motivate the development of new enabling technology. For example, see how Artefact presents the Dialog concept.
 This concept has not been implemented, and might not even be immediately possible.
 But it has been developed in substantial detail, understanding implications for design and implementation:
 
 - [Dialog: Better Decisions, Better Health - Artefact](http://www.artefactgroup.com/content/work/dialog/)
 - [Video of Dialog Talk in DUB Seminar](http://vimeo.com/103167385)
 
-Finally, the project theme requires that your proposal present some opportunity for __designing for diversity__.
-But you will ultimately follow your design process where it leads you, which may or may not emphasize tracking.
+Finally, the project requires that your proposal presents __contrasting diverse groups of users__.
+But you will ultimately follow your design process where it leads you.
 Focusing on problems and opportunities, rather than specific design features will leave room for your design
 to emerge and be refined in the course of this project.
 
@@ -125,24 +107,21 @@ Friday's section will focus on brainstorming potential project directions. You w
 
 You should upload the assignment individually, building on the ideas that your group had during the brainstorm in section. (It is okay to upload the same ideas as others in your group.)
 
-Propose three starting points for brainstorming domains, problems, and goals that fall within the realm of designing for diversity.
+Propose three sets of domains, problems, and goals you would like to tackle in this course.
 
-By domain, we mean an aspect of a community. Domains include:
+By domain, we mean an aspect of daily life. Domains include:
 
-- Minorities
-- Homeless
-- People with disabilities
-- People from different cultures
-- People with chronic conditions
-- Elderly
-- Local business owners
-- Workers
+- Traveling
+- Shopping
+- Gaming
+- Health care
+- Working
 
 Be sure to focus on problems and goals, not potential design solutions. One way to help yourself identify a hierarchy of problems and goals is to ask "why?". For example:
 
-- Why is a person not using Facebook?
-- Why is a person unable to play shooter games?
-- Why do they want to keep up with the current technology?
+- Why do my friends prefer Yelp instead of Google Maps?   
+- Why is social media so overwhelming?
+- Why is my girlfriend unable to play shooter games?
 
 Each idea should be a single sentence, identifying the domain and the problem or goal. At most one of your ideas may come from any of the domains above. Your other two ideas should be from domains not in this list, in order to broaden the brainstorm. Ensure the ideas are significantly different, not small variations on the same idea.
 
@@ -170,9 +149,9 @@ This milestone will be graded on a scale of __1 point__:
 
 Due: {{ page.due_project_1b }}
 
-Propose and analyze a problem that could form the basis of a design project for this class.
+Propose and analyze a problem that could form the basis of a design project for this class. (Making use of high-quality references is strongly recommended.)
 
-In one paragraph, describe the design problem and motivation. 
+In one paragraph, describe the problem you want to tackle and motivations behing it. 
 This description should convince the reader that this is a difficult and interesting problem, worth spending a quarter considering. 
 State what the problem is and why it is a problem, or describe a new idea and why it will enhance an existing application or practice.
 
@@ -235,8 +214,6 @@ This proposal will be graded on a scale of __3 points__:
 Due: {{ page.due_project_1c }}
 
 Update the project proposal based on the feedback you received from the staff. Describe the changes that you made from the previous version in one to two paragraphs. 
-
-<!-- {% if page.link_project_1c_projects != nil %}<{{ page.link_project_1c_projects }}>{% else %}`Link to be added`{% endif %} -->
 
 ### Submission
 

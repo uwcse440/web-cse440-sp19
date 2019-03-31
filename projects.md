@@ -34,25 +34,19 @@ Information here is likely suggestive of the final page, but remains subject to 
 # Project Theme
 
 
-This year’s project theme will be “Designing for diversity”! You will be encouraged to design for groups of people who are different from yourself and/or to design for inclusiveness, connecting people from different backgrounds. 
+This quarter’s project theme will be __“Improve something out there”!__ This means you will have a unique chance to pick some interactive piece of tech that already exists and re-think it to make people happier about using it. Although you can start with something you know and love (or hate) you will also need to design for another group of people who is different from yourself. We will aim to make a really exciting design contribution to a product or service that will improve the user experience for different groups of people.
 
-Computers and the Internet have changed many people's lives. However, many applications that we use in our daily lives are developed by Westerners and embed the developers' beliefs in what is useful and usable. 
-For example, Facebook is extremely popular in many Western countries, but has failed to attract a large user base in Russia. Facebook is also not as popular with elderly and teens as it is with people between 25 and 45 of age. Similarly, Uber and Lyft have gained much attraction with economically prosperous young professionals, but are often seen with suspicion in economically strained parts of the US. Most of these problems in designing adequate technology and gaining market share arise because designers and developers can be insufficiently aware of the beliefs, preferences, needs, and prior experiences of people who are different from themselves.
+Over the course of the quarter, you will work as a group on designing an interactive technology to improve any aspect of daily life, for instance:
 
-Over the course of the quarter, you will work as a group on designing a system to an activity or relationship within the particular context of a group of people that is not particularly well supported by current tools. Example groups that you could design for are: 
-- Minorities 
-- Homeless
-- People with disabilities
-- People from different cultures
-- People with chronic conditions
-- Elderly
-- Local business owners
-- Workers
-- Interactions between these groups (or between yourselves and one of these groups)
+- Traveling
+- Shopping
+- Gaming
+- Health care
+- Working
 
-As part of your project, you will need to define what a specific group's needs are that your project tries to support and what activity you would like to design that might help address this need.
-Think about how that activity is currently supported via technology, what doesn't work about current ways of supporting it, and how your solution will do this better. 
-The specificity of addressing a particular group of people allows you to deeply think about what makes the group unique and how you would best want to support them. So, dive in and see what you can come up with! 
+You will need to define what are the specific user needs your project will support and what activity you would like to design that will help address these needs.
+Think about how that activity is currently supported, what doesn't work about current ways of supporting it, and how your solution will do this better. 
+The specificity of addressing particular groups of people allows you to deeply think about what makes each group unique and how your solution will best support them. So, dive in and see what you can come up with! 
 
 # Project Websites
 
