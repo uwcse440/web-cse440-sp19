@@ -2,26 +2,26 @@
 layout: base/bar/bar-sidebar-none
 title: "Readings"
 
-link_reading_empathy: https://canvas.uw.edu/courses/1219632/assignments/4439154
-link_reading_empathy_file_empathy: https://canvas.uw.edu/files/50913645/download?download_frd=1
-due_reading_empathy: Uploaded Monday - due night before class - October 15, 2018
+[//]: # (link_reading_empathy: https://canvas.uw.edu/courses/1219632/assignments/4439154)
+[//]: # (link_reading_empathy_file_empathy: https://canvas.uw.edu/files/50913645/download?download_frd=1)
+[//]: # (due_reading_empathy: Uploaded Monday - due night before class - October 15, 2018)
 
-link_reading_storyboarding: https://canvas.uw.edu/courses/1219632/assignments/4439155
-link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
-link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/50913651/download?download_frd=1 
-link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/50913650/download?download_frd=1
-link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/50913649/download?download_frd=1
-link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/50913652/download?download_frd=1
-link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/50913644/download?download_frd=1
-due_reading_storyboarding: Uploaded Monday - due night before class - October 29, 2018
+[//]: # (link_reading_storyboarding: https://canvas.uw.edu/courses/1219632/assignments/4439155)
+[//]: # (link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/)
+[//]: # (link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/50913651/download?download_frd=1)
+[//]: # (link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/50913650/download?download_frd=1)
+[//]: # (link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/50913649/download?download_frd=1)
+[//]: # (link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/50913652/download?download_frd=1)
+[//]: # (link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/50913644/download?download_frd=1)
+[//]: # (due_reading_storyboarding: Uploaded Monday - due night before class - October 29, 2018)
 
-link_reading_usability_testing: https://canvas.uw.edu/courses/1219632/assignments/4439156
-link_reading_usability_testing_file: https://canvas.uw.edu/files/50913646/download?download_frd=1
-link_reading_usability_testing_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1
-link_reading_usability_testing_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1
-link_reading_usability_testing_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1
-link_reading_usability_testing_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1
-due_reading_usability_testing: Uploaded Thursday - due night before section - November 8, 2018
+[//]: # (link_reading_usability_testing: https://canvas.uw.edu/courses/1219632/assignments/4439156)
+[//]: # (link_reading_usability_testing_file: https://canvas.uw.edu/files/50913646/download?download_frd=1)
+[//]: # (link_reading_usability_testing_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1)
+[//]: # (link_reading_usability_testing_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1)
+[//]: # (link_reading_usability_testing_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1)
+[//]: # (link_reading_usability_testing_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1)
+[//]: # (due_reading_usability_testing: Uploaded Thursday - due night before section - November 8, 2018)
 
 ---
 <!--div class="alert alert-danger" markdown="1">
