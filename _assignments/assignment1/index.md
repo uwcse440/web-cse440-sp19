@@ -2,12 +2,12 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 1: Project Proposal"
 
-[//]: # (due_project_1a: Uploaded Monday - due night before class - October 1, 2018)
-[//]: # (link_project_1a: https://canvas.uw.edu/courses/1219632/assignments/4439130)
-[//]: # (due_project_1b: Uploaded Friday, October 5, 2018)
-[//]: # (link_project_1b: https://canvas.uw.edu/courses/1219632/assignments/4439131)
-[//]: # (due_project_1c: Uploaded Wednesday - due night before class - October 10, 2018)
-[//]: # (link_project_1c_bids: https://canvas.uw.edu/courses/1219632/assignments/4439132)
+due_project_1a: Friday - April 5, 2019
+link_project_1a: https://canvas.uw.edu/courses/1271349/assignments/4770556
+due_project_1b: Wednesday - April 10, 2019
+link_project_1b: https://canvas.uw.edu/courses/1271349/assignments/4770557
+due_project_1c: Friday - April 12, 2019
+link_project_1c: https://canvas.uw.edu/courses/1271349/assignments/4770558
 
 ---
 
@@ -219,7 +219,7 @@ Update the project proposal based on the feedback you received from the staff. D
 
 The submission should describe the changes made from the previous verion on the first page, followed by the updated proposal. 
 
-{% if page.link_project_1c_bids != nil %}<{{ page.link_project_1c_bids }}>{% else %}`Link to be added`{% endif %}
+{% if page.link_project_1c != nil %}<{{ page.link_project_1c }}>{% else %}`Link to be added`{% endif %}
 
 ### Grading
 

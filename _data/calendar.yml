@@ -49,7 +49,7 @@ locations:
 lectures:
   - date: "2019-04-02"
     name: "Introduction and Project Overview"
-    #slides: "slides/CSE440-01-Introduction.pdf"
+    slides: "slides/CSE440-01-Introduction.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5e7b3a08-dcc7-41b8-a61d-0dc83414fc79"
   - date: "2019-04-04"
     name: "History and State of the Art in HCI"
