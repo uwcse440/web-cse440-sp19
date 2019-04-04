@@ -53,7 +53,7 @@ lectures:
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5e7b3a08-dcc7-41b8-a61d-0dc83414fc79"
   - date: "2019-04-04"
     name: "History and State of the Art in HCI"
-    #slides: "slides/CSE440-02-HistoryAndStateOfTheArtHCI.pdf"
+    slides: "slides/CSE440-02-HistoryAndStateOfTheArtHCI.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=92ff6fa2-fcb9-4a18-8c96-2fff79fc1819"
     # notes: "Required for Project 2f"
   - date: "2019-04-09"
