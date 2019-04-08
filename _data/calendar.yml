@@ -123,6 +123,7 @@ lectures:
 
 sections:
   - date: "2019-04-05"
+    slides: "slides/CSE440-01-Friday-Brainstorming.pdf"
   - date: "2019-04-12"
   - date: "2019-04-19"
   - date: "2019-04-26"

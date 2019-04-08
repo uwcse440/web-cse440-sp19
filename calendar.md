@@ -93,16 +93,14 @@ This page is still being migrated and developed. All content remains subject to 
             {% endif %}
 
             <div class="item section">
-              {% if currentsection.slides != nil %}
-                <a href="{{ site.baseurl }}/{{ currentsection.slides }}">
+              {% if currentsection.name != nil %}
+                {{ currentsection.name }}<br>
+              {% else %}
+                Section
               {% endif %}
-                {% if currentsection.name != nil %}
-                  {{ currentsection.name }}<br>
-                {% else %}
-                  Section<br>
-                {% endif %}
+              <br>
               {% if currentsection.slides != nil %}
-                </a>
+                [<a href="{{ site.baseurl }}/{{ currentsection.slides }}">slides</a>]<br>
               {% endif %}
               <small>
                 {% for currentlocationitem in site.data.calendar.locations[currentlocation] %}
