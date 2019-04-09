@@ -58,7 +58,7 @@ lectures:
     # notes: "Required for Project 2f"
   - date: "2019-04-09"
     name: "Designing Critique"
-    #slides: "slides/CSE440-03-DesigningForDiversity.pdf"
+    slides: "slides/CSE440-03-DesignCritique.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a96a0fe-329e-425f-ad99-32f80af30b85"
     # notes: "Required for Project 2b, Design Research Planning Over Weekend"
   - date: "2019-04-11"
