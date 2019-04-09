@@ -173,16 +173,6 @@ Be sure your presentation looks good:
  - choose appropriate colors, fonts, and styles
  - make liberal use of whitespace 
 
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - Proposal that ultimately became [{{ currentsample.name }}]({{ currentsample.link }}): [1b_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/1b/1b_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
 
 ### Submission
 
