@@ -11,10 +11,10 @@ link_project_1c: https://canvas.uw.edu/courses/1271349/assignments/4770558
 
 ---
 
-<div class="alert alert-danger" markdown="1">
+<!--div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed.
 Information here is likely suggestive of the final page, but remains subject to change.
-</div>
+</div-->
 
 <div class="alert alert-info" markdown="1">
 __Important!__ 

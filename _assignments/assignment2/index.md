@@ -2,8 +2,9 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 2: Getting the Right Design"
 
-[//]: # (due_project_2a: Completed in section Friday, October 12, 2018)
-[//]: # (link_project_2a: https://canvas.uw.edu/courses/1219632/assignments/4439133)
+due_project_2a: Completed in section Friday, October 12, 2018
+link_project_2a: https://canvas.uw.edu/courses/1271349/assignments/4770559
+
 [//]: # (due_project_2b: Uploaded Wednesday - due night before class - October 17, 2018)
 [//]: # (link_project_2b: https://canvas.uw.edu/courses/1219632/assignments/4439134)
 [//]: # (link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985)
@@ -172,7 +173,7 @@ Foci: potential foci you might apply in your learning.
 
 ### Submission
 
-For the submission, capture and submit a legible image of your brainstorm. 
+For the submission, capture and submit legible images of your brainstorm and, on the same PDF file, shortly describe (in 1 or 2 sentences) the 3-5 ideas the team consider more exciting.
 
 Submit via Canvas here:
 
