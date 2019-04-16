@@ -2,11 +2,12 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 2: Getting the Right Design"
 
-due_project_2a: Completed in section Friday, October 12, 2018
+due_project_2a: Tuesday, April 16, 2019
 link_project_2a: https://canvas.uw.edu/courses/1271349/assignments/4770559
 
-[//]: # (due_project_2b: Uploaded Wednesday - due night before class - October 17, 2018)
-[//]: # (link_project_2b: https://canvas.uw.edu/courses/1219632/assignments/4439134)
+due_project_2b: Friday - April 19, 2019
+link_project_2b: https://canvas.uw.edu/courses/1271349/assignments/4770560
+
 [//]: # (link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985)
 [//]: # (due_project_2c: Completed before section Friday, October 19, 2018)
 [//]: # (link_project_2c: https://canvas.uw.edu/courses/1219632/assignments/4439135)
@@ -173,7 +174,7 @@ Foci: potential foci you might apply in your learning.
 
 ### Submission
 
-For the submission, capture and submit legible images of your brainstorm and, on the same PDF file, shortly describe (in 1 or 2 sentences) the 3-5 ideas the team consider more exciting.
+For the submission, capture and submit legible images of your brainstorm and, on the same PDF file, shortly describe (in 1 or 2 sentences) the 3-5 ideas the team consider more exciting. Please, focus on clarifying what the team wants to convey with that idea, for example: Idea one proposes a wearable device to use around the neck that will read the muscles to identify where the head is facing.
 
 Submit via Canvas here:
 

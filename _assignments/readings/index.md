@@ -2,9 +2,9 @@
 layout: base/bar/bar-sidebar-none
 title: "Readings"
 
-[//]: # (link_reading_empathy: https://canvas.uw.edu/courses/1219632/assignments/4439154)
-[//]: # (link_reading_empathy_file_empathy: https://canvas.uw.edu/files/50913645/download?download_frd=1)
-[//]: # (due_reading_empathy: Uploaded Monday - due night before class - October 15, 2018)
+link_reading_empathy: https://canvas.uw.edu/courses/1271349/assignments/4770581
+link_reading_empathy_file_empathy: https://canvas.uw.edu/courses/1271349/files/55396517/download?wrap=1
+due_reading_empathy: Uploaded Thursday - April 18, 2019
 
 [//]: # (link_reading_storyboarding: https://canvas.uw.edu/courses/1219632/assignments/4439155)
 [//]: # (link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/)

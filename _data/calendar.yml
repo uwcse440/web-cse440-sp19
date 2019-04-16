@@ -68,7 +68,7 @@ lectures:
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=287b2c2d-d3d7-4846-8070-ca695b76b4a4"
   - date: "2019-04-16"
     name: "Design Process and Design Diamond"
-    #slides: "slides/CSE440-05-DesignProcessAndDesignDiamond.pdf"
+    slides: "slides/CSE440-05-DesignProcessAndDesignDiamond.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a5f61f1-c9c0-44c5-b765-7a5bb836b7ac"
     # notes: "Required for Project 2d"
   - date: "2019-04-18"
