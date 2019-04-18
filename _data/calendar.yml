@@ -73,7 +73,7 @@ lectures:
     # notes: "Required for Project 2d"
   - date: "2019-04-18"
     name: "User Research"
-    #slides: "slides/CSE440-06-UserResearch.pdf"
+    slides: "slides/CSE440-06-UserResearch.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b744838-59fc-44d0-aeab-31d89ba3a3a8"
   - date: "2019-04-23"
     name: "Human Performance"

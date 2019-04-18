@@ -9,8 +9,10 @@ due_project_2b: Friday - April 19, 2019
 link_project_2b: https://canvas.uw.edu/courses/1271349/assignments/4770560
 
 [//]: # (link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985)
-[//]: # (due_project_2c: Completed before section Friday, October 19, 2018)
-[//]: # (link_project_2c: https://canvas.uw.edu/courses/1219632/assignments/4439135)
+
+due_project_2c: Wednesday, April 24, 2019
+link_project_2c: https://canvas.uw.edu/courses/1271349/assignments/4770561
+
 [//]: # (due_project_2d: Uploaded Wednesday - due night before class - October 24, 2018)
 [//]: # (link_project_2d: https://canvas.uw.edu/courses/1219632/assignments/4439136)
 [//]: # (due_project_2e: Uploaded Thursday - due night before section - October 25, 2018)
