@@ -77,7 +77,7 @@ lectures:
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b744838-59fc-44d0-aeab-31d89ba3a3a8"
   - date: "2019-04-23"
     name: "Human Performance"
-    #slides: "slides/CSE440-07-HumanPerformance.pdf"
+    slides: "slides/CSE440-07-HumanPerformance.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20b59274-0923-40a6-afaa-143c55f52747"
   - date: "2019-04-25"
     name: "Task Analysis"

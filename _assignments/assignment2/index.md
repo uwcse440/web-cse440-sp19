@@ -13,23 +13,27 @@ link_project_2b: https://canvas.uw.edu/courses/1271349/assignments/4770560
 due_project_2c: Wednesday, April 24, 2019
 link_project_2c: https://canvas.uw.edu/courses/1271349/assignments/4770561
 
-[//]: # (due_project_2d: Uploaded Wednesday - due night before class - October 24, 2018)
-[//]: # (link_project_2d: https://canvas.uw.edu/courses/1219632/assignments/4439136)
-[//]: # (due_project_2e: Uploaded Thursday - due night before section - October 25, 2018)
-[//]: # (link_project_2e: https://canvas.uw.edu/courses/1219632/assignments/4439137)
-[//]: # (due_project_2f: Completed in section Friday, October 26, 2018)
-[//]: # (link_project_2f: https://canvas.uw.edu/courses/1219632/assignments/4439138)
+due_project_2d: Monday - April 29, 2019
+link_project_2d: https://canvas.uw.edu/courses/1271349/assignments/4770562
+
+due_project_2e: Wednesday - May 1, 2019
+link_project_2e: https://canvas.uw.edu/courses/1271349/assignments/4770563
+
+due_project_2f: Friday - May 3, 2019
+link_project_2f: https://canvas.uw.edu/courses/1271349/assignments/4770564
+
 [//]: # (link_project_2f_critique: https://canvas.uw.edu/courses/987987/assignments/3029342)
-[//]: # (due_project_2g: Uploaded Wednesday - due night before class - October 31, 2018)
-[//]: # (link_project_2g: https://canvas.uw.edu/courses/1219632/assignments/4439139)
-[//]: # (due_project_2h: Uploaded Friday, November 2, 2018)
-[//]: # (link_project_2h: https://canvas.uw.edu/courses/1219632/assignments/4439140)
+
+due_project_2g: Wednesday - May 8, 2019
+link_project_2g: https://canvas.uw.edu/courses/1271349/assignments/4770565
+due_project_2h: Friday - May 10, 2019
+link_project_2h: https://canvas.uw.edu/courses/1271349/assignments/4770566
 ---
 
-<div class="alert alert-danger" markdown="1">
+<!--div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed.
 Information here is likely suggestive of the final page, but remains subject to change.
-</div>
+</div-->
 
 # Overview
 
@@ -202,17 +206,6 @@ In another paragraph, describe the ideal design research you would conduct. For 
 In the final paragraph, describe which research method you will focus on for the purpose of this class (usually this will be one of the research methods listed in the second paragraph, but in some cases, you might decide that a fourth research method is more realistic). Describe why you chose this method for your user research plan.
 
 
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [2b_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/2b/2b_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
-
 ### Submission
 
 No more than one page of text in PDF format. Submit via Canvas here:
@@ -266,17 +259,6 @@ can be difficult to get right and often important topics are left unresolved.
 
 - What are your plans for the remaining participants?
 - How do you plan to change your design research plan based on what you learned with your first participant?
-
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [2c_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/2c/2c_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
 
 ### Submission
 
@@ -336,16 +318,6 @@ These should help you begin to identify tasks essential to your design.
 10. What are the time constraints on the tasks?
 11. What happens when things go wrong?
 
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [2d_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/2d/2d_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
 
 ### Submission
 
@@ -402,17 +374,6 @@ Building on what you learned in your design research, design six tasks that you 
 Each task should be described in text. Tasks say what is accomplished, leaving open how to accomplish it.
 So be sure that your task conveys a problem and what is accomplished, rather than a step-by-step walkthrough of scenario with a particular design.
 
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [2e_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/2e/2e_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
-
 ### Submission
 
 No more than two pages of text in PDF format: 
@@ -446,17 +407,6 @@ You will now brainstorm and sketch three very different initial designs for your
 
 The purpose of these sketches is to explore the design space before you lock yourself into a single design.
 They must demonstrate significant consideration of substantially different approaches to your problem.
-
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [2f_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/2f/2f_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
 
 ### Submission
 
@@ -524,16 +474,6 @@ conveying the major aspects of the design in enough detail that a person not in 
 how the design supports each task. 
 As needed, add descriptions that explicitly reference the storyboard, add more sketches, or annotate them in multiple colors.
 
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [2g_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/2g/2g_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
 
 ### Submission
 
@@ -632,18 +572,7 @@ Ensure your report is appropriately clear and easy to read. This includes:
  - check for typos, spelling, and grammar errors
 
 
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [2h_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/2h/2h_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
-
-### Submission
+## Submission
 
 No more than eight pages of text in PDF format, following the above outline.
 
