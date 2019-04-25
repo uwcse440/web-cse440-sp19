@@ -4,16 +4,16 @@ title: "Readings"
 
 link_reading_empathy: https://canvas.uw.edu/courses/1271349/assignments/4770581
 link_reading_empathy_file_empathy: https://canvas.uw.edu/courses/1271349/files/55396517/download?wrap=1
-due_reading_empathy: Uploaded Thursday - April 18, 2019
+due_reading_empathy: Thursday - April 18, 2019
 
-[//]: # (link_reading_storyboarding: https://canvas.uw.edu/courses/1219632/assignments/4439155)
-[//]: # (link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/)
-[//]: # (link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/50913651/download?download_frd=1)
-[//]: # (link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/50913650/download?download_frd=1)
-[//]: # (link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/50913649/download?download_frd=1)
-[//]: # (link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/50913652/download?download_frd=1)
-[//]: # (link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/50913644/download?download_frd=1)
-[//]: # (due_reading_storyboarding: Uploaded Monday - due night before class - October 29, 2018)
+link_reading_storyboarding: https://canvas.uw.edu/courses/1219632/assignments/4439155
+link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
+link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/55396525/download?download_frd=1
+link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/55396523/download?download_frd=1
+link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/55396524/download?download_frd=1
+link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/55396526/download?download_frd=1
+link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/55396512/download?download_frd=1
+due_reading_storyboarding: Tuesday - May 7, 2019
 
 [//]: # (link_reading_usability_testing: https://canvas.uw.edu/courses/1219632/assignments/4439156)
 [//]: # (link_reading_usability_testing_file: https://canvas.uw.edu/files/50913646/download?download_frd=1)
