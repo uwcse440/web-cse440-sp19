@@ -2,8 +2,9 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 3: Getting the Design Right"
 
-[//]: # (due_project_3a: Uploaded Monday - due night before class - November 5, 2018)
-[//]: # (link_project_3a: https://canvas.uw.edu/courses/1219632/assignments/4439141)
+due_project_3a: Uploaded Monday - May 13, 2019
+link_project_3a: https://canvas.uw.edu/courses/1271349/assignments/4770567
+
 [//]: # (due_project_3b: Uploaded Wednesday - due night before class - November 7, 2018)
 [//]: # (link_project_3b: https://canvas.uw.edu/courses/1219632/assignments/4439142)
 [//]: # (due_project_3c: Uploaded Friday, November 9, 2018)
@@ -187,17 +188,6 @@ Due: {{ page.due_project_3a }}.
 
 Develop a paper prototype for your design. 
 It should convey all critical aspects of your design, including support for testing your two primary tasks.
-
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [3a_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/3a/3a_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
 
 ### Submission
 
