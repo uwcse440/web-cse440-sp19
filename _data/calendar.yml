@@ -105,7 +105,7 @@ lectures:
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dca0f4a0-2c45-4656-a7b3-fddae52979d6"
   - date: "2019-05-14"
     name: "Accessibility"
-    #slides: "slides/CSE440-13-Accessibility.pdf"
+    slides: "slides/CSE440-13-Accessibility.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75db126b-00c5-482b-8899-818a4da4391a"
   - date: "2019-05-16"
     name: "Patterns"

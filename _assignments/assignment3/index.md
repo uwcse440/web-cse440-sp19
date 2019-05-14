@@ -5,25 +5,29 @@ title: "Assignment 3: Getting the Design Right"
 due_project_3a: Uploaded Monday - May 13, 2019
 link_project_3a: https://canvas.uw.edu/courses/1271349/assignments/4770567
 
-[//]: # (due_project_3b: Uploaded Wednesday - due night before class - November 7, 2018)
-[//]: # (link_project_3b: https://canvas.uw.edu/courses/1219632/assignments/4439142)
-[//]: # (due_project_3c: Uploaded Friday, November 9, 2018)
-[//]: # (link_project_3c: https://canvas.uw.edu/courses/1219632/assignments/4439143)
-[//]: # (due_project_3d: Uploaded Monday - due night before class - November 12, 2018)
-[//]: # (link_project_3d: https://canvas.uw.edu/courses/1219632/assignments/4439144)
-[//]: # (due_project_3e: Uploaded Friday, November 16, 2018)
-[//]: # (link_project_3e: https://canvas.uw.edu/courses/1219632/assignments/4439145)
-[//]: # (due_project_3f: Uploaded Friday, November 30, 2018)
-[//]: # (link_project_3f: https://canvas.uw.edu/courses/1219632/assignments/4439146)
-[//]: # (due_project_3g: Critique in section Friday, November 30, 2018)
-[//]: # (link_project_3g: https://canvas.uw.edu/courses/1219632/assignments/4439147)
+due_project_3b: Uploaded Wednesday - May 15, 2019
+link_project_3b: https://canvas.uw.edu/courses/1271349/assignments/4770568
+
+due_project_3c: Uploaded Friday - May 17, 2019)
+link_project_3c: https://canvas.uw.edu/courses/1271349/assignments/4770569
+
+due_project_3d: Uploaded Monday - May 20, 2019
+link_project_3d: https://canvas.uw.edu/courses/1271349/assignments/4770570
+
+due_project_3e: Uploaded Friday - May 24, 2019
+link_project_3e: https://canvas.uw.edu/courses/1271349/assignments/4770571
+
+[//]: # (due_project_3f: Uploaded Friday - May 31, 2019)
+[//]: # (link_project_3f: https://canvas.uw.edu/courses/1271349/assignments/4770572)
+[//]: # (due_project_3g: Uploaded Monday - Jun , 2019)
+[//]: # (link_project_3g: https://canvas.uw.edu/courses/1271349/assignments/4770573)
 
 ---
 
-<div class="alert alert-danger" markdown="1">
+<!--div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed.
 Information here is likely suggestive of the final page, but remains subject to change.
-</div>
+</div-->
 
 # Overview
 
