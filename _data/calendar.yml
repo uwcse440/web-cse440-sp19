@@ -119,6 +119,8 @@ lectures:
     name: "Recap and Exam Q&A Session"
     #slides: "slides/lecture/l17-videos.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13d54897-953d-4b90-a841-7e1e0c14145f"  
+  - date: "2019-05-28"
+    name: "3f - Workshop"
     
 
 sections:
@@ -179,19 +181,19 @@ assignments:
   - date: "2019-05-13"
     name: "3a - Paper Protoype"
     link: "assignments/assignment3/#paper_prototype"
-  - date: "2019-05-15"
+  - date: "2019-05-16"
     name: "3b - Heuristic Evaluation"
     link: "assignments/assignment3/#heuristic_evaluation"
   - date: "2019-05-17"
     name: "Reading 3: Usability Testing"
     link: "assignments/readings/#usabilitytesting"
   - date: "2019-05-17"
-    name: "3c - Usability Testing Check-In"
+    name: "3c - Usability Testing Check-In (for Saturday)"
     link: "assignments/assignment3/#usability_testing_checkin"
-  - date: "2019-05-20"
+  - date: "2019-05-22"
     name: "3d - Usability Testing Review"
     link: "assignments/assignment3/#usability_testing_review"
-  - date: "2019-05-24"
+  - date: "2019-05-27"
     name: "3e - Digital Mockup"
     link: "assignments/assignment3/#digital_mockup"
   - date: "2019-05-31"
@@ -245,8 +247,6 @@ aways:
     name: Nigini at CHI
   - date: "2019-05-10"
     name: Nigini at CHI
-  - date: "2019-05-28"
-    name: NO CLASS
 
 
 officehours:
