@@ -15,13 +15,14 @@ link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/553965
 link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/55396512/download?download_frd=1
 due_reading_storyboarding: Tuesday - May 7, 2019
 
-[//]: # (link_reading_usability_testing: https://canvas.uw.edu/courses/1219632/assignments/4439156)
-[//]: # (link_reading_usability_testing_file: https://canvas.uw.edu/files/50913646/download?download_frd=1)
+link_reading_usability_testing: https://canvas.uw.edu/courses/1271349/assignments/4770583
+link_reading_usability_testing_file: https://canvas.uw.edu/files/55396513/download?download_frd=1
+
 [//]: # (link_reading_usability_testing_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1)
 [//]: # (link_reading_usability_testing_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1)
 [//]: # (link_reading_usability_testing_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1)
 [//]: # (link_reading_usability_testing_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1)
-[//]: # (due_reading_usability_testing: Uploaded Thursday - due night before section - November 8, 2018)
+due_reading_usability_testing: Friday - May 17, 2019
 
 ---
 <!--div class="alert alert-danger" markdown="1">
