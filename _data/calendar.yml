@@ -109,7 +109,7 @@ lectures:
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75db126b-00c5-482b-8899-818a4da4391a"
   - date: "2019-05-16"
     name: "Patterns"
-    #slides: "slides/CSE440-14-Patterns.pdf"
+    slides: "slides/CSE440-14-Patterns.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33a018b1-c498-44cd-9edf-30e238a6656d"
   - date: "2019-05-21"
     name: "Interface Implementation"
