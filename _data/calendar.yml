@@ -35,7 +35,7 @@ locations:
 
   postersession:
     - time: "10:30 - 12:30"
-      location: "CSE Atrium"
+      location: "OUG 136"
 
   officehoursprof:
     - time: "10:00 - 12:00"
@@ -117,7 +117,7 @@ lectures:
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13d54897-953d-4b90-a841-7e1e0c14145f"  
   - date: "2019-05-23"
     name: "Recap and Exam Q&A Session"
-    #slides: "slides/lecture/l17-videos.pdf"
+    slides: "slides/CSE440-16-RecapAndExamQ&A.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13d54897-953d-4b90-a841-7e1e0c14145f"  
   - date: "2019-05-28"
     name: "3f - Workshop"

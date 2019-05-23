@@ -16,7 +16,7 @@ link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/file
 due_reading_storyboarding: Tuesday - May 7, 2019
 
 link_reading_usability_testing: https://canvas.uw.edu/courses/1271349/assignments/4770583
-link_reading_usability_testing_file: https://canvas.uw.edu/files/55396513/download?download_frd=1
+link_reading_usability_testing_file: https://canvas.uw.edu/courses/1271349/files/56481412/download
 
 [//]: # (link_reading_usability_testing_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1)
 [//]: # (link_reading_usability_testing_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1)
