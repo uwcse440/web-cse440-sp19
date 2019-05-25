@@ -14,13 +14,14 @@ link_project_3c: https://canvas.uw.edu/courses/1271349/assignments/4770569
 due_project_3d: Uploaded Monday - May 20, 2019
 link_project_3d: https://canvas.uw.edu/courses/1271349/assignments/4770570
 
-due_project_3e: Uploaded Friday - May 24, 2019
+due_project_3e: Uploaded Friday - May 27, 2019
 link_project_3e: https://canvas.uw.edu/courses/1271349/assignments/4770571
 
-[//]: # (due_project_3f: Uploaded Friday - May 31, 2019)
-[//]: # (link_project_3f: https://canvas.uw.edu/courses/1271349/assignments/4770572)
-[//]: # (due_project_3g: Uploaded Monday - Jun , 2019)
-[//]: # (link_project_3g: https://canvas.uw.edu/courses/1271349/assignments/4770573)
+due_project_3f: Uploaded Friday - May 31, 2019
+link_project_3f: https://canvas.uw.edu/courses/1271349/assignments/4770572
+
+due_project_3g: Uploaded Monday - Jun 3, 2019
+link_project_3g: https://canvas.uw.edu/courses/1271349/assignments/4770573
 
 ---
 
@@ -304,16 +305,6 @@ Present your iterative revisions and your plan going forward:
 - Present your plan for the remainder of your usability tests. Describe who you will target for participation, what
   goals you have for the additional tests, planned roles for each team member, and any new approaches you will employ.
 
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [3c_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/3c/3c_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
 
 ### Submission
 
@@ -367,16 +358,6 @@ Present the results of your usability testing and your final paper prototype:
   prototype based on issues identified in inspection, usability testing, or critique. These issues may already be 
   included in the above list, but discuss them in more detail and argue why detecting and fixing them is important to your design.
 
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [3d_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/3d/3d_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
 
 ### Submission
 
@@ -434,16 +415,6 @@ Present your digital mockup together with discussion of the decisions and change
   
 - Discuss decisions and changes you made in implementing the digital mockup.
 
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [3e_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/3e/3e_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
 
 ### Submission
 
@@ -471,92 +442,45 @@ This milestone will be graded on a scale of __2 points__:
   
 Due: {{ page.due_project_3f }}.
 
-Prepare a report documenting your process of getting the design right. 
-Your report should follow the outline below, and will be graded using the guidelines that follow. 
-The provided page allocations are estimates, intended to help convey how to divide up the space.
+For the final submission, you’re required to present your project as a case study. Case studies are used by designers to showcase their work and sets up the context about the problem, research and the solution to an uninitiated reader. This case study will be published on CSE440’s Medium.com page.
 
-If you completed all of your milestones above, you will have much of the content for this report. 
-But it is critical that you revise and update that content. 
-You have received extensive feedback throughout your design process, and evaluation of your report will 
-include how you have addressed and incorporated that feedback to improve relative to your prior milestones.
+Here it is a good structure for such a post:
 
-1.  __Title__ 
+1. __Title__
+  * A short, creative, and marketable title capturing the key idea.
+2. __Introduction__
+  * Introduce your project in one statement followed by a brief introduction of the problem you solved and the target user
+  * Introduce your team briefly and the roles
+3. __Background__
+  * Define the problem area in detail and your motivations behind selecting this problem
+4. __User Research__
+  * Define your user(s) (primary, secondary, and tertiary if applicable)
+  * Describe the research methods used
+  * Results or distillation of research into tasks or scenarios
+5. __Prototypes and User Testing__
+  * Paper prototype: Feedback from heuristic evaluation, revisions overview
+  * User testing: How did you recruit the user? Describe user testing methods and testing tasks
+  * Describe revisions done after user testing
+  * Final product/prototype
+6. __Project Retrospect__
+  * What did you learn about the primary user and the problem area you chose through user research and user testing
+  * What were the limitations and constraints you identified? (Optional: Describe how will you take care of them in future projects)
+  * Roadmap and Impact: Provide a brief perspective of how your project can evolve in the future and the impact it had/can have on your target user(s)
 
-    A short, creative, and marketable title capturing the key idea.
+A few examples of good cases are:
 
-2.  __Each Team Member’s Name and Role__
+  * Google Translate - [A fish in your ear](https://mahimoto.com/a-fish-in-your-ear)
+  * Uber - [Perfecting the pickup](http://simonpan.com/work/uber/)
+  * Grin App - [Making the workplace more fun and engaging](http://dbirman.com/grin)
 
-3.  __Problem and Solution Overview__: (1 paragraph)
-
-    A concise statement of the problem you are tackling and a brief synopsis of your proposed solution. 
-    Consider updating this from your previous report to reflect the scope of your final design.
-
-4.  __Initial Paper Prototype__: (1 page)
-
-    Present your original paper prototype, as a baseline against which this report will present your iteration.
-    Convey the critical aspects of your design, including your two primary tasks.
-
-5.  __Testing Process__: (1 page)
-  
-    Present your testing process, including your method and your participants.
-    This process probably evolved some in the course of your project.
-    Include a retrospective on how you refined your process, separate from how you refined your design.
-
-6.  __Testing Results__: (2 pages)
-  
-    Summarize the results of your paper prototype testing and refinement.
-    Present what you learned about each version of your prototype and what changes you made as a result.
-    This will include changes from your heuristic evaluation, usability testing, and design critique.
-
-7.  __Final Paper Prototype__: (1 page)
-
-    Present your final version of your paper prototype, as you did for your initial paper prototype above. 
-    Convey the critical aspects of your design, including your two primary tasks.
-
-8.  __Digital Mockup__: (1 page)
-
-    Present your digital mockup.
-    Convey the critical aspects of your design, including your two primary tasks.
-    Briefly discuss any changes you needed to make as you switched to your digital tools instead of paper. 
-    Briefly discuss any changes you made in response to critique.
-    Include descriptions of how your design supports each of your primary tasks (e.g., one paragraph per task).
-
-9.  __Discussion__: (1 page)
-
-    Reflect upon and discuss your project and your results. For example: 
-   
-    - What did you learn from the process of iterative design? 
-    - How did the process shape your final design? 
-    - How have your tasks changed as a result of your usability tests?
-    - Do you think you could have used more, or fewer, iterations upon your design? 
-
-10. __Appendix__:
-
-     Attach copies of all materials involved in your testing. 
-     Includes any instructions or task descriptions you handed out or read aloud to your participants.
-     Include identified critical incidents from your usability testing. 
-     The appendix materials and screenshots do not count in your page limit.
-
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [3f_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/3f/3f_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
 
 ### Submission
 
-No more than eight pages of text in PDF format, following the above outline.
+Create a Google Doc and share it with anyone who has the link. Use it since the first step so everybody on your team and on staff can jump in and leave comments.
 
-Images and your appendix do not count against your page limit, and are therefore effectively free. 
-You should embed images throughout your PDF, keeping them near the text that references them.
-The limit applies to the approximate amount of text you would have if all images were removed.
+You should embed images throughout the document, keeping them near the text that references them.
 
-Submit via Canvas here:
+Submit the link via Canvas here:
 
 {% if page.link_project_3f != nil %}<{{ page.link_project_3f }}>{% else %}`Link to be added`{% endif %}
 
@@ -564,16 +488,13 @@ Submit via Canvas here:
 
 This report will be graded on a scale of __5 points__:
 
-1.  __Title__: (0.2 points) 
-2.  __Team Member Names and Roles__: (0.2 points)  
-3.  __Problem and Solution Overview__: (0.4 points)
-4.  __Initial Paper Prototype__: (0.6 points)
-5.  __Testing Process__: (0.4 points)
-6.  __Testing Results__: (0.6 points)
-7.  __Final Paper Prototype__: (0.6 points)
-8.  __Digital Mockup__: (0.6 points)
-9.  __Discussion__: (0.6 points)
-10. __Report Clarity and Presentation__: (0.8 points)
+1.  __Title__: (0.3 points) 
+2.  __Introduction__: (0.5 points)  
+3.  __Background__: (0.5 points)
+4.  __User Research__: (1 point)
+5.  __Prototypes and User Testing__: (1 point)
+6.  __Project Retrospect__: (1 point)
+7.  __Clarity and Presentation__: (0.7 points)
 
 <a name="presentation"></a>
 
@@ -628,17 +549,6 @@ For example, arrange to practice together with another group or two, giving each
 Note that we have not provided recommendations for the number of slides in each section of this presentation. 
 You can deliver your presentation using as many or as few slides as you want, 
 as long as you successfully address the above points and the presentation falls within the time restriction.
-
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [3g_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/3g/3g_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
 
 ### Submission
 
