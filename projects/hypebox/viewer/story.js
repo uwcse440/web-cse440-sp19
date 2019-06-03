@@ -7,6 +7,48 @@ var story = {
 "pages": [
 $.extend(new ViewerPage(),{
 "index": 0,
+"image": "main_screen.png",
+"image2x": "main_screen@2x.png",
+"width": 375,
+"height": 667,
+"title": "Main Screen",
+'layout' : {
+	"offset": 0,
+	"totalWidth": 375,
+	"numberOfColumns": 12,
+	"columnWidth": 26.25,
+	"gutterWidth": 5
+},
+'type': 'modal',
+'showShadow': 1,
+'fixedPanels': [],
+'links' : [
+	{
+		"rect": {
+			"x": 107,
+			"y": 528,
+			"width": 179,
+			"height": 57
+		},
+		"isParentFixed": false,
+		"page": 1,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 107,
+			"y": 451,
+			"width": 179,
+			"height": 57
+		},
+		"isParentFixed": false,
+		"page": 3,
+		"index": 1
+	}
+],
+})
+,$.extend(new ViewerPage(),{
+"index": 1,
 "image": "login_screen.png",
 "image2x": "login_screen@2x.png",
 "width": 375,
@@ -30,7 +72,7 @@ $.extend(new ViewerPage(),{
 			"height": 25
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 0,
 		"index": 0
 	},
 	{
@@ -42,47 +84,6 @@ $.extend(new ViewerPage(),{
 		},
 		"isParentFixed": false,
 		"page": 2,
-		"index": 1
-	}
-],
-})
-,$.extend(new ViewerPage(),{
-"index": 1,
-"image": "main_screen.png",
-"image2x": "main_screen@2x.png",
-"width": 375,
-"height": 667,
-"title": "Main Screen",
-'layout' : {
-	"offset": 0,
-	"totalWidth": 375,
-	"numberOfColumns": 12,
-	"columnWidth": 26.25,
-	"gutterWidth": 5
-},
-'type': 'regular',
-'fixedPanels': [],
-'links' : [
-	{
-		"rect": {
-			"x": 107,
-			"y": 528,
-			"width": 179,
-			"height": 57
-		},
-		"isParentFixed": false,
-		"page": 0,
-		"index": 0
-	},
-	{
-		"rect": {
-			"x": 107,
-			"y": 451,
-			"width": 179,
-			"height": 57
-		},
-		"isParentFixed": false,
-		"page": 3,
 		"index": 1
 	}
 ],
@@ -112,7 +113,7 @@ $.extend(new ViewerPage(),{
 			"height": 25
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 0,
 		"index": 0
 	},
 	{
@@ -123,7 +124,7 @@ $.extend(new ViewerPage(),{
 			"height": 40
 		},
 		"isParentFixed": false,
-		"page": 0,
+		"page": 1,
 		"index": 1
 	},
 	{
@@ -175,7 +176,7 @@ $.extend(new ViewerPage(),{
 			"height": 13.653333333333336
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 0,
 		"index": 1
 	}
 ],
@@ -205,7 +206,7 @@ $.extend(new ViewerPage(),{
 			"height": 25
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 0,
 		"index": 0
 	},
 	{
@@ -298,7 +299,7 @@ $.extend(new ViewerPage(),{
 			"height": 25
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 0,
 		"index": 0
 	},
 	{
@@ -380,7 +381,7 @@ $.extend(new ViewerPage(),{
 			"height": 25
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 0,
 		"index": 0
 	}
 ],
@@ -410,7 +411,7 @@ $.extend(new ViewerPage(),{
 			"height": 25
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 0,
 		"index": 0
 	},
 	{
@@ -451,7 +452,7 @@ $.extend(new ViewerPage(),{
 			"height": 25
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 0,
 		"index": 0
 	},
 	{
@@ -462,7 +463,7 @@ $.extend(new ViewerPage(),{
 			"height": 25
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 0,
 		"index": 1
 	},
 	{
@@ -503,7 +504,7 @@ $.extend(new ViewerPage(),{
 			"height": 25
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 0,
 		"index": 0
 	}
 ],
