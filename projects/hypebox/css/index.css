@@ -21,7 +21,7 @@
     min-height: 100%;
 
     z-index: -1;
-    filter: brightness(20%) contrast(110%);
+    filter: brightness(23%) contrast(110%);
 }
 
 .hype-navigator {
@@ -42,3 +42,27 @@
     background-color: red;
     text-decoration: none;
 }
+
+.social-icons a {
+    display: inline-block;
+    height: 2rem;
+    width: 2rem;
+    background-color: black;
+    color: #fff;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    margin-right: 2rem;
+  }
+  
+  .social-icons a:last-child {
+    margin-right: 0;
+  }
+  
+  .social-icons a:hover {
+    color: black;
+    background-color: white;
+  }
+
+  
