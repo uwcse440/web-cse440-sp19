@@ -63,3 +63,7 @@
 .social-icons a:hover {
     color: #AAA;
 }
+
+.huerotate { 
+    filter: hue-rotate(90deg); 
+}
