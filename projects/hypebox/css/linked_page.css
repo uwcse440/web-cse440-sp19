@@ -4,8 +4,8 @@ body {
 
 .hypebox_trans {
     filter:invert(100%);
-    width: 2%;
-    height: 2%;
+    width: 25%;
+    height: 25%;
 }
 
 .hype-text {
@@ -40,3 +40,17 @@ p {
     color: black;
 }
 
+.left-div {
+    width: 48%;
+    float: left;
+}
+
+.right-div {
+    width: 48%;
+    float: right;
+    vertical-align: middle;
+}
+
+.container {
+    vertical-align: center;
+}
