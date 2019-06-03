@@ -32,3 +32,13 @@
     padding: 0;
     text-align: left;
 }
+
+.hype-navigator li {
+    margin: 10px 0;
+}
+
+.hype-navigator a:hover {
+    color: white;
+    background-color: red;
+    text-decoration: none;
+}

@@ -29,7 +29,7 @@
             hour = now.getHours(), minute = now.getMinutes();
         $('.hype-clock').text(
           (month < 10 ? '0' : '') + month + '/' + (day < 10 ? '0' : '') + day + '/' + year + ' ' +
-          (hour < 10 ? '0' : '') + hour + ':' + (minute < 10 ? '0' : '') + minute + (hour >= 12 ? 'pm' : 'am'));
+          (hour < 10 ? '0' : '') + hour + ':' + (minute < 10 ? '0' : '') + minute + (hour >= 12 ? 'pm' : 'am') + ' SEA');
       };
 
       f();
@@ -38,31 +38,31 @@
   </script>
 </head>
 
-<body id="page-top">
+<body id="page-top" class="container d-flex align-items-center justify-content-center">
   <div id="page-background"></div>
 
   <div class="container-fluid p-0 d-flex align-items-center justify-content-center">
-    <div class="col-1"></div>
-    <div class="d-flex align-items-center justify-content-end flex-column col-3">
+    <div class="col-2"></div>
+    <div class="d-flex align-items-center justify-content-end flex-column col-2">
         <img src="./assets/logo/stroke_transparent.png">
     </div>
     <div class="d-flex align-items-center justify-content-center flex-column col-4 container">
-      <div class="col-2"></div>
-      <div class="d-flex align-items-center justify-content-center col-8">
+      <div class="col-1"></div>
+      <div class="d-flex align-items-center justify-content-center flex-column col-10">
         <div class="d-flex align-items-center justify-content-center flex-column">
           <span class="hype-text">Hypebox</span>
-          <span class="hype-clock">06/02/2019 11:00pm NYC</span>
         </div>
-        <div class="d-flexalign-items-start">
+        <div class="d-flex align-items-start flex-column">
+          <span class="hype-clock mb-5">06/02/2019 11:00pm NYC</span>
           <ul class="hype-navigator">
-            <li href="#">buying</li>
-            <li href="#">hooks</li>
-            <li href="#">selling</li>
-            <li href="#">team</li>
+            <li><a href="./pages/buying.html">buying</a></li>
+            <li><a href="./pages/hooks.html">hooks</a></li>
+            <li><a href="./pages/selling.html">selling</a></li>
+            <li><a href="./pages/team.html">team</a></li>
           </ul>
         </div>
       </div>
-      <div class="col-2"></div>
+      <div class="col-1"></div>
     </div>
     <div class="col-4"></div>
   </div>
