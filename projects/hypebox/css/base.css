@@ -32,3 +32,18 @@ a {
     color: inherit;
     text-decoration: inherit;
 }
+
+body {
+    opacity: 1;
+    transition: 1s opacity;
+}
+
+body.fade {
+    opacity: 0;
+    transition: none;
+}
+
+body.fade-out {
+    opacity: 0;
+    transition: 1s;
+}
