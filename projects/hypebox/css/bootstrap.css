@@ -98,6 +98,10 @@ h1, h2, .h1, .h2 {
   background-color: red;
 }
 
+.team_holder {
+  display: inline-block;
+}
+
 /* make page full height */
 .resume-section {
   height: 100vh;
