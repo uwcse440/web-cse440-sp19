@@ -16,6 +16,23 @@
   <link href="./css/bootstrap.css" rel="stylesheet">
   <link href="./css/base.css" rel="stylesheet">
   <link href="./css/index.css" rel="stylesheet">
+
+  <script>
+    $(document).ready(function() {
+      // updates .hype-clock every minute
+      var f = function() {
+        var now = new Date();
+        var month = now.getMonth() + 1, day = now.getDate(), year = now.getFullYear(),
+            hour = now.getHours(), minute = now.getMinutes();
+        $('.hype-clock').text(
+          (month < 10 ? '0' : '') + month + '/' + day + '/' + year + ' ' +
+          (hour < 10 ? '0' : '') + hour + ':' + (minute < 10 ? '0' : '') + (hour >= 12 ? 'pm' : 'am'));
+      };
+
+      f();
+      setInterval(f, 60 * 1000);
+    });
+  </script>
 </head>
 
 <body id="page-top">
