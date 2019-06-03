@@ -54,3 +54,20 @@ p {
 .container {
     vertical-align: center;
 }
+
+#page-background {
+    position: fixed; 
+    top: 0; 
+    left: 0;
+
+    background: url('../assets/background-inverted.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+
+    min-width: 100%;
+    min-height: 100%;
+
+    z-index: -1;
+    filter: brightness(50%) contrast(110%);
+    filter:opacity(5%)
+}
