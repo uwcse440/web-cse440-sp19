@@ -4,4 +4,39 @@ body {
 
 .hypebox_trans {
     filter:invert(100%);
+    width: 2%;
+    height: 2%;
 }
+
+.hype-text {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    font-size: 24pt;
+    font-style: italic;
+    color: white;
+    background-color: red;
+    padding: 1px 4px;
+    letter-spacing: 0px;
+}
+
+.team_holder {
+    display: inline-block;
+}
+
+.resume-section {
+    height: auto;
+}
+  
+.resume-content {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+

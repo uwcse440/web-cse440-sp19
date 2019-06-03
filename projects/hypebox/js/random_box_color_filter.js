@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $("#hypebox_trans").filter(270)
+    $(".hypebox_trans").filter(270)
   });
