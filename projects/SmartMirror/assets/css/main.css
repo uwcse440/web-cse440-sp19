@@ -2260,6 +2260,13 @@ input, select, textarea {
 		overflow: hidden;
 	}
 
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	}
+
 		.image img {
 			border-radius: 6px;
 			display: block;
