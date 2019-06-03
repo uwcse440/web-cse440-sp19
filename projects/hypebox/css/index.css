@@ -45,24 +45,21 @@
 
 .social-icons a {
     display: inline-block;
-    height: 2rem;
-    width: 2rem;
+    height: 14px;
+    width: 14px;
     background-color: black;
-    color: #fff;
+    color: #555;
     border-radius: 100%;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 20px;
     line-height: 2.5rem;
-    margin-right: 2rem;
-  }
+    margin-right: 5px;
+}
   
-  .social-icons a:last-child {
+.social-icons a:last-child {
     margin-right: 0;
-  }
-  
-  .social-icons a:hover {
-    color: black;
-    background-color: white;
-  }
+}
 
-  
+.social-icons a:hover {
+    color: #AAA;
+}
