@@ -17,6 +17,9 @@
   <link href="./css/base.css" rel="stylesheet">
   <link href="./css/index.css" rel="stylesheet">
 
+  <!-- JQuery -->
+  <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>
+
   <script>
     $(document).ready(function() {
       // updates .hype-clock every minute
@@ -25,17 +28,14 @@
         var month = now.getMonth() + 1, day = now.getDate(), year = now.getFullYear(),
             hour = now.getHours(), minute = now.getMinutes();
         $('.hype-clock').text(
-          (month < 10 ? '0' : '') + month + '/' + day + '/' + year + ' ' +
-          (hour < 10 ? '0' : '') + hour + ':' + (minute < 10 ? '0' : '') + (hour >= 12 ? 'pm' : 'am'));
+          (month < 10 ? '0' : '') + month + '/' + (day < 10 ? '0' : '') + day + '/' + year + ' ' +
+          (hour < 10 ? '0' : '') + hour + ':' + (minute < 10 ? '0' : '') + minute + (hour >= 12 ? 'pm' : 'am'));
       };
 
       f();
       setInterval(f, 60 * 1000);
     });
   </script>
-  
-  <!-- JQuery -->
-  <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>
 </head>
 
 <body id="page-top">
