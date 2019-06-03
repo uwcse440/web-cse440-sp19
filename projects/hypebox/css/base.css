@@ -1,0 +1,28 @@
+.hype-text {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    font-size: 24pt;
+    font-style: italic;
+    color: white;
+    background-color: red;
+    padding: 1px 4px;
+    letter-spacing: 0px;
+}
+
+.hype-clock {
+    font-family: 'Courier New', monospace;
+    font-size: 11pt;
+}
+
+.team_holder {
+    display: inline-block;
+}
+
+.resume-section {
+    height: 100vh;
+}
+  
+.resume-content {
+    padding-left: 20%;
+    padding-right: 20%;
+}

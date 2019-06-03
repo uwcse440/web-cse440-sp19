@@ -90,28 +90,6 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5rem;
 }
 
-h1, h2, .h1, .h2 {
-  display: inline-block;
-  font-family: Arial, Helvetica, sans-serif;
-  font-style: italic;
-  color: white;
-  background-color: red;
-}
-
-.team_holder {
-  display: inline-block;
-}
-
-/* make page full height */
-.resume-section {
-  height: 100vh;
-}
-
-.resume-content {
-  padding-left: 20%;
-  padding-right: 20%;
-}
-
 p {
   margin-top: 1rem;
   margin-bottom: 1rem;

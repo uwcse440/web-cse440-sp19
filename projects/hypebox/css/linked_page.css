@@ -1,0 +1,7 @@
+body {
+    background-color: white;
+}
+
+.hypebox_trans {
+    filter:invert(100%);
+}
