@@ -19,8 +19,7 @@ $.extend(new ViewerPage(),{
 	"columnWidth": 26.25,
 	"gutterWidth": 5
 },
-'type': 'modal',
-'showShadow': 1,
+'type': 'regular',
 'fixedPanels': [],
 'links' : [
 	{
@@ -31,7 +30,7 @@ $.extend(new ViewerPage(),{
 			"height": 57
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 5,
 		"index": 0
 	},
 	{
@@ -42,13 +41,166 @@ $.extend(new ViewerPage(),{
 			"height": 57
 		},
 		"isParentFixed": false,
-		"page": 3,
+		"page": 1,
 		"index": 1
 	}
 ],
 })
 ,$.extend(new ViewerPage(),{
 "index": 1,
+"image": "browse_screen.png",
+"image2x": "browse_screen@2x.png",
+"width": 375,
+"height": 800,
+"title": "Browse Screen",
+'layout' : {
+	"offset": 0,
+	"totalWidth": 375,
+	"numberOfColumns": 12,
+	"columnWidth": 26.25,
+	"gutterWidth": 5
+},
+'type': 'regular',
+'fixedPanels': [],
+'links' : [
+	{
+		"rect": {
+			"x": 15,
+			"y": 561,
+			"width": 170,
+			"height": 221
+		},
+		"isParentFixed": false,
+		"page": 2,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 21,
+			"y": 33.173333333333176,
+			"width": 8.106666666666683,
+			"height": 13.653333333333336
+		},
+		"isParentFixed": false,
+		"page": 0,
+		"index": 1
+	}
+],
+})
+,$.extend(new ViewerPage(),{
+"index": 2,
+"image": "product_detail_page.png",
+"image2x": "product_detail_page@2x.png",
+"width": 375,
+"height": 800,
+"title": "Product Detail Page",
+'layout' : {
+	"offset": 0,
+	"totalWidth": 375,
+	"numberOfColumns": 12,
+	"columnWidth": 26.25,
+	"gutterWidth": 5
+},
+'type': 'regular',
+'fixedPanels': [],
+'links' : [
+	{
+		"rect": {
+			"x": 29,
+			"y": 417,
+			"width": 317,
+			"height": 46
+		},
+		"isParentFixed": false,
+		"page": 3,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 0,
+			"y": 20,
+			"width": 375,
+			"height": 40
+		},
+		"isParentFixed": false,
+		"page": 1,
+		"index": 1
+	}
+],
+})
+,$.extend(new ViewerPage(),{
+"index": 3,
+"image": "payment_screen.png",
+"image2x": "payment_screen@2x.png",
+"width": 375,
+"height": 667,
+"title": "Payment Screen",
+'layout' : {
+	"offset": 0,
+	"totalWidth": 375,
+	"numberOfColumns": 12,
+	"columnWidth": 26.25,
+	"gutterWidth": 5
+},
+'type': 'regular',
+'fixedPanels': [],
+'links' : [
+	{
+		"rect": {
+			"x": 175,
+			"y": 619,
+			"width": 25,
+			"height": 25
+		},
+		"isParentFixed": false,
+		"page": 2,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 110,
+			"y": 389,
+			"width": 156,
+			"height": 156
+		},
+		"isParentFixed": false,
+		"page": 4,
+		"index": 1
+	}
+],
+})
+,$.extend(new ViewerPage(),{
+"index": 4,
+"image": "payment_complete_screen.png",
+"image2x": "payment_complete_screen@2x.png",
+"width": 375,
+"height": 667,
+"title": "Payment Complete Screen",
+'layout' : {
+	"offset": 0,
+	"totalWidth": 375,
+	"numberOfColumns": 12,
+	"columnWidth": 26.25,
+	"gutterWidth": 5
+},
+'type': 'regular',
+'fixedPanels': [],
+'links' : [
+	{
+		"rect": {
+			"x": 175,
+			"y": 619,
+			"width": 25,
+			"height": 25
+		},
+		"isParentFixed": false,
+		"page": 0,
+		"index": 0
+	}
+],
+})
+,$.extend(new ViewerPage(),{
+"index": 5,
 "image": "login_screen.png",
 "image2x": "login_screen@2x.png",
 "width": 375,
@@ -77,19 +229,30 @@ $.extend(new ViewerPage(),{
 	},
 	{
 		"rect": {
+			"x": 0,
+			"y": 20,
+			"width": 375,
+			"height": 40
+		},
+		"isParentFixed": false,
+		"page": 0,
+		"index": 1
+	},
+	{
+		"rect": {
 			"x": 110,
 			"y": 256,
 			"width": 156,
 			"height": 156
 		},
 		"isParentFixed": false,
-		"page": 2,
-		"index": 1
+		"page": 6,
+		"index": 2
 	}
 ],
 })
 ,$.extend(new ViewerPage(),{
-"index": 2,
+"index": 6,
 "image": "authentication_screen.png",
 "image2x": "authentication_screen@2x.png",
 "width": 375,
@@ -124,7 +287,7 @@ $.extend(new ViewerPage(),{
 			"height": 40
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 5,
 		"index": 1
 	},
 	{
@@ -135,54 +298,13 @@ $.extend(new ViewerPage(),{
 			"height": 44
 		},
 		"isParentFixed": false,
-		"page": 4,
+		"page": 7,
 		"index": 2
 	}
 ],
 })
 ,$.extend(new ViewerPage(),{
-"index": 3,
-"image": "browse_screen.png",
-"image2x": "browse_screen@2x.png",
-"width": 375,
-"height": 800,
-"title": "Browse Screen",
-'layout' : {
-	"offset": 0,
-	"totalWidth": 375,
-	"numberOfColumns": 12,
-	"columnWidth": 26.25,
-	"gutterWidth": 5
-},
-'type': 'regular',
-'fixedPanels': [],
-'links' : [
-	{
-		"rect": {
-			"x": 15,
-			"y": 561,
-			"width": 170,
-			"height": 221
-		},
-		"isParentFixed": false,
-		"page": 5,
-		"index": 0
-	},
-	{
-		"rect": {
-			"x": 21,
-			"y": 33.173333333333176,
-			"width": 8.106666666666683,
-			"height": 13.653333333333336
-		},
-		"isParentFixed": false,
-		"page": 0,
-		"index": 1
-	}
-],
-})
-,$.extend(new ViewerPage(),{
-"index": 4,
+"index": 7,
 "image": "place_in_box_screen.png",
 "image2x": "place_in_box_screen@2x.png",
 "width": 375,
@@ -217,7 +339,7 @@ $.extend(new ViewerPage(),{
 			"height": 40
 		},
 		"isParentFixed": false,
-		"page": 2,
+		"page": 6,
 		"index": 1
 	},
 	{
@@ -228,54 +350,13 @@ $.extend(new ViewerPage(),{
 			"height": 44
 		},
 		"isParentFixed": false,
-		"page": 6,
+		"page": 8,
 		"index": 2
 	}
 ],
 })
 ,$.extend(new ViewerPage(),{
-"index": 5,
-"image": "product_detail_page.png",
-"image2x": "product_detail_page@2x.png",
-"width": 375,
-"height": 800,
-"title": "Product Detail Page",
-'layout' : {
-	"offset": 0,
-	"totalWidth": 375,
-	"numberOfColumns": 12,
-	"columnWidth": 26.25,
-	"gutterWidth": 5
-},
-'type': 'regular',
-'fixedPanels': [],
-'links' : [
-	{
-		"rect": {
-			"x": 29,
-			"y": 417,
-			"width": 317,
-			"height": 46
-		},
-		"isParentFixed": false,
-		"page": 7,
-		"index": 0
-	},
-	{
-		"rect": {
-			"x": 0,
-			"y": 20,
-			"width": 375,
-			"height": 40
-		},
-		"isParentFixed": false,
-		"page": 3,
-		"index": 1
-	}
-],
-})
-,$.extend(new ViewerPage(),{
-"index": 6,
+"index": 8,
 "image": "scanning_screen.png",
 "image2x": "scanning_screen@2x.png",
 "width": 375,
@@ -312,77 +393,6 @@ $.extend(new ViewerPage(),{
 		"isParentFixed": false,
 		"page": 9,
 		"index": 1
-	}
-],
-})
-,$.extend(new ViewerPage(),{
-"index": 7,
-"image": "payment_screen.png",
-"image2x": "payment_screen@2x.png",
-"width": 375,
-"height": 667,
-"title": "Payment Screen",
-'layout' : {
-	"offset": 0,
-	"totalWidth": 375,
-	"numberOfColumns": 12,
-	"columnWidth": 26.25,
-	"gutterWidth": 5
-},
-'type': 'regular',
-'fixedPanels': [],
-'links' : [
-	{
-		"rect": {
-			"x": 175,
-			"y": 619,
-			"width": 25,
-			"height": 25
-		},
-		"isParentFixed": false,
-		"page": 5,
-		"index": 0
-	},
-	{
-		"rect": {
-			"x": 110,
-			"y": 389,
-			"width": 156,
-			"height": 156
-		},
-		"isParentFixed": false,
-		"page": 8,
-		"index": 1
-	}
-],
-})
-,$.extend(new ViewerPage(),{
-"index": 8,
-"image": "payment_complete_screen.png",
-"image2x": "payment_complete_screen@2x.png",
-"width": 375,
-"height": 667,
-"title": "Payment Complete Screen",
-'layout' : {
-	"offset": 0,
-	"totalWidth": 375,
-	"numberOfColumns": 12,
-	"columnWidth": 26.25,
-	"gutterWidth": 5
-},
-'type': 'regular',
-'fixedPanels': [],
-'links' : [
-	{
-		"rect": {
-			"x": 175,
-			"y": 619,
-			"width": 25,
-			"height": 25
-		},
-		"isParentFixed": false,
-		"page": 0,
-		"index": 0
 	}
 ],
 })
