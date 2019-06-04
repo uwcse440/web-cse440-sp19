@@ -1,23 +1,48 @@
+html {
+   padding: 0px;
+   margin: 0px;
+}
 body {
    font-family: sans-serif;
-   text-decoration: none;
+   background-color: white;
+   padding: 0px;
+   margin: 0px;
 }
 a, p {
    font-size: 14pt;
    color: black;
+   text-decoration: none;
 }
 h2 {
    font-size: 18pt;
 }
 main > * {
    text-align: center;
-   background-color: #CBD8FB
 }
-#clockIcon {
-   height: 100px;
-   width: 100px;
+header {
+   background-color: lightgrey;
+   margin: 0px;
+   padding: 0px;
 }
-.italic {
+q {
    font-style: italic;
    font-weight: normal;
+}
+.container {
+   width: 100%;
+}
+#clockIcon {
+   height: 40pt;
+   width: 40pt;
+}
+#phone {
+   width: 100%;
+}
+#navBar {
+   margin: 0px;
+   padding: 10px;
+}
+#navBar > a {
+   font-size: 20pt;
+   color: blue;
 }
