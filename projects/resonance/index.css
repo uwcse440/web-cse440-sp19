@@ -1,0 +1,160 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p, a {
+  font-weight: 300;
+}
+
+#menu {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  list-style-type: none;
+  background-color: #fff;
+}
+
+#menu li {
+  float: left;
+  line-height: 64px;
+  height: 64px;
+}
+
+#menu li a {
+  display: block;
+  padding: 0 20px;
+  text-decoration: none;
+  color: #999;
+}
+
+#menu li a:hover {
+  color: #09f;
+}
+
+#menu img {
+  height: 24px;
+  margin-top: 19px;
+}
+
+#menu li.logo {
+  float: right;
+}
+
+#logo a {
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 800;
+  font-size: 1.5em;
+  color: #09f !important;
+}
+
+.section {
+  text-align: center;
+}
+
+.intro {
+  padding: 0 10vw;
+}
+
+#titlesection {
+  background: linear-gradient(rgba(0, 153, 255, 0.5), rgba(0, 153, 255, 0.5)), url("img/splash.jpg");
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+}
+
+#titlesection span {
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+#titlesection h1 {
+  font-size: 4em;
+  letter-spacing: 1px;
+}
+
+#problemsection {
+  color: #fff;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+p {
+  width: 75%;
+  font-size: 1.2em;
+  margin: 1em auto;
+  line-height: 2em;
+}
+
+.featureimg {
+  margin-left: 5vw;
+  width: 15vw;
+  float: left;
+}
+
+.fp-controlArrow.fp-prev {
+  border-color: transparent #999 transparent transparent !important;
+}
+
+.fp-controlArrow.fp-next {
+  border-color: transparent transparent transparent #999 !important;
+}
+
+.fp-slidesNav ul li a span {
+  background-color: #999;
+}
+
+.right {
+  width: 55vw;
+  float: right;
+}
+
+.docimg {
+  height: 100px;
+}
+
+#documentssection ul, #teamsection ul {
+  padding: 0;
+  list-style-type: none;
+  display: inline-block;
+}
+
+#documentssection ul li, #teamsection ul li {
+  float: left;
+  padding: 40px;
+}
+
+#teamsection {
+  color: #fff;
+}
+
+#teamsection span {
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 800;
+}
+
+h4 {
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+#teamsection p {
+  font-size: 0.8em;
+}
+
+.imgcircle {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.imgcircle img {
+  width: 200px;
+}

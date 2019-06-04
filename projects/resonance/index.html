@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Exo+2:800" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="jquery.fullPage.css">
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <link rel="icon" type="image/png" href="img/icon.png">
+  <script type="text/javascript" src="jquery.fullPage.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      var sections = ['home', 'problem', 'design', 'team', 'documents'];
+      $("#fullpage").fullpage({
+        sectionsColor: ['#fff', '#09f', '#fff', '#09f', '#fff'],
+        anchors: ['home', 'problem', 'design', 'team', 'documents'],
+        menu: "#menu",
+        slidesNavigation: true,
+        scrollingSpeed: 1000,
+        onLeave: function(index, nextIndex, direction) {
+          $("li[data-menuanchor=\'" + sections[index - 1] + "\'] a").css('color', '#999');
+          $("li[data-menuanchor=\'" + sections[nextIndex - 1] + "\'] a").css('color', '#09f');
+        }
+      });
+    });
+  </script>
+  <title>Resonance</title>
+</head>
+<body>
+  <ul id="menu">
+    <li data-menuanchor="home"><a href="#home">Resonance</a></li>
+    <li data-menuanchor="problem"><a href="#problem">Problem</a></li>
+    <li data-menuanchor="design"><a href="#design">Design</a></li>
+    <li data-menuanchor="team"><a href="#team">Team</a></li>
+    <li data-menuanchor="documents"><a href="#documents">Documents</a></li>
+    <li class="logo"><a href="#home"><img src="img/icon.png"></a></li>
+  </ul>
+  <div id="fullpage">
+    <div class="section" id="titlesection">
+      <div class="intro">
+        <h1>Resonance</h1>
+        <h1>Music, together.</h1>
+      </div>
+    </div>
+    <div class="section" id="problemsection">
+      <div class="intro">
+        <h2>The Problem</h2>
+        <p>Playing music in a group setting can be challenging for students during creative work sessions. Collecting feedback and dynamically selecting songs to queue in these environments is often difficult and distracting.</p>
+        <h2>Our Solution</h2>
+        <p>Resonance is a smart speaker accessory that will make the hard music decisions for the group, like magic. It provides music recommendations in real-time based on user feedback and suggestions—minimize distractions, maximize productivity.</p>
+      </div>
+    </div>
+    <div class="section" id="designsection">
+      <div class="slide">
+        <div class="intro">
+          <img src="img/guest_main.jpg" class="featureimg">
+          <div class="right">
+            <h2>Feedback</h2>
+            <p>When you're in your groove, you don't want bad music to get you down. Give live feedback and recommendations on the Resonance widget to dynamically influence the music being played!</p>
+          </div>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="intro">
+          <img src="img/guest_onboarding.jpg" class="featureimg">
+          <div class="right">
+            <h2>Join the Party</h2>
+            <p>Simply tap the Resonance device with your smartphone to join the session and have your feedback count. No app download required.</p>
+          </div>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="intro">
+          <img src="img/host_main.jpg" class="featureimg">
+          <div class="right">
+            <h2>Host Experience</h2>
+            <p>Resonance is fully capable of handling the DJ responsiblites so you as the host can focus on more important things. Don't want to take a backseat? There's a full set of optional controls so you can micromanage to your heart's content.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section" id="teamsection">
+      <div class="intro">
+        <h2>The Resonance Team</h2>
+        <center>
+          <ul>
+            <li>
+              <div class="imgcircle">
+                <img src="img/gerard.jpg">
+              </div>
+              <h4>Gerard Gaimari</h4>
+              <p>CSE</p>
+            </li>
+            <li>
+              <div class="imgcircle">
+                <img src="img/trevor.jpg">
+              </div>
+              <h4>Trevor Alexander</h4>
+              <p>CSE</p>
+            </li>
+            <li>
+              <div class="imgcircle">
+                <img src="img/christina.jpg">
+              </div>
+              <h4>Christina Stanfield</h4>
+              <p>INFO & MATH</p>
+            </li>
+          </ul>
+        </center>
+      </div>
+    </div>
+    <div class="section" id="documentssection">
+      <h2>Documents</h2>
+      <center>
+        <ul>
+          <li>
+            <a href="files/design_research_review.pdf"><img src="img/document.png" class="docimg"></a>
+            <h4>User Research</h4>
+          </li>
+          <li>
+            <a href="files/usability_testing_review.pdf"><img src="img/pdf.png" class="docimg"></a>
+            <h4>Usability Testing</h4>
+          </li>
+          <li>
+            <a href="files/final_report.pdf"><img src="img/document.png" class="docimg"></a>
+            <h4>Final Report</h4>
+          </li>
+        </ul>
+      </center>
+    </div>
+  </div>
+</body>
+</html>
