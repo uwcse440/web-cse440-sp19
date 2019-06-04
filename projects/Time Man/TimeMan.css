@@ -34,6 +34,9 @@ q {
    font-style: italic;
    font-weight: normal;
 }
+img {
+   max-width: 100%
+}
 .container {
    margin: auto;
    max-width: 66.67%;
@@ -60,7 +63,4 @@ q {
    font-size: 20pt;
    color: blue;
    text-decoration: none;
-}
-#survey {
-   text-align: center;
 }
