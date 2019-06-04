@@ -13,7 +13,9 @@ a, p, li{
    color: black;
 }
 p {
-   padding: 10pt;
+  padding: 10pt;
+  line-height: 1.5;
+  text-align: left;
 }
 h1 {
    font-size: 18pt;
@@ -24,7 +26,7 @@ h2 {
    padding: 10pt;
 }
 header {
-   background-color: lightgrey;
+   background-color: #dedef5;
    margin: 0px;
    padding: 0px;
 }
@@ -33,7 +35,8 @@ q {
    font-weight: normal;
 }
 .container {
-   width: 100%;
+   margin: auto;
+   max-width: 66.67%;
    margin-top: 14pt;
 }
 .center{
