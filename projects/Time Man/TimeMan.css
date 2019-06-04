@@ -8,16 +8,20 @@ body {
    padding: 0px;
    margin: 0px;
 }
-a, p {
+a, p, li{
    font-size: 14pt;
    color: black;
-   text-decoration: none;
+}
+p {
+   padding: 10pt;
+}
+h1 {
+   font-size: 18pt;
+   text-align: center;
 }
 h2 {
-   font-size: 18pt;
-}
-main > * {
-   text-align: center;
+   font-size: 14pt;
+   padding: 10pt;
 }
 header {
    background-color: lightgrey;
@@ -30,6 +34,12 @@ q {
 }
 .container {
    width: 100%;
+   margin-top: 14pt;
+}
+.center{
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
 }
 #clockIcon {
    height: 40pt;
@@ -37,12 +47,17 @@ q {
 }
 #phone {
    width: 100%;
+   margin: 0px;
 }
 #navBar {
    margin: 0px;
-   padding: 10px;
+   padding: 10pt;
 }
 #navBar > a {
    font-size: 20pt;
    color: blue;
+   text-decoration: none;
+}
+#survey {
+   text-align: center;
 }
