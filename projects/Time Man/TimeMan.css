@@ -8,6 +8,13 @@ body {
    padding: 0px;
    margin: 0px;
 }
+li {
+  margin-bottom: 10px;
+}
+iframe {
+  margin: auto;
+  display: block;
+}
 a, p, li{
    font-size: 14pt;
    color: black;
