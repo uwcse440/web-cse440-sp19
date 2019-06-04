@@ -1,0 +1,23 @@
+body {
+   font-family: sans-serif;
+   text-decoration: none;
+}
+a, p {
+   font-size: 14pt;
+   color: black;
+}
+h2 {
+   font-size: 18pt;
+}
+main > * {
+   text-align: center;
+   background-color: #CBD8FB
+}
+#clockIcon {
+   height: 100px;
+   width: 100px;
+}
+.italic {
+   font-style: italic;
+   font-weight: normal;
+}
