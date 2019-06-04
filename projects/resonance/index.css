@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 
 #menu li a:hover {
-  color: #09f;
+  color: #515151;
 }
 
 #menu img {
@@ -45,10 +45,10 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 
 #logo a {
-  font-family: 'Exo 2', sans-serif;
-  font-weight: 800;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
   font-size: 1.5em;
-  color: #09f !important;
+  color: #515151 !important;
 }
 
 .section {
@@ -60,15 +60,16 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 
 #titlesection {
-  background: linear-gradient(rgba(0, 153, 255, 0.5), rgba(0, 153, 255, 0.5)), url("img/splash.jpg");
+  background: linear-gradient(rgba(170, 170, 170, 0.4), rgba(170, 170, 170, 0.5)), url("img/collaborate.jpg");
   background-size: cover;
   text-align: center;
   color: #fff;
 }
 
 #titlesection span {
-  font-family: 'Exo 2', sans-serif;
-  font-weight: 800;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 2em;
   letter-spacing: 0;
 }
 

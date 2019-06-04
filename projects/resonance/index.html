@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Exo+2:800" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:700,800&display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="jquery.fullPage.css">
   <link rel="stylesheet" type="text/css" href="index.css">
   <link rel="icon" type="image/png" href="img/icon.png">
@@ -13,7 +13,7 @@
     $(document).ready(function() {
       var sections = ['home', 'problem', 'design', 'team', 'documents'];
       $("#fullpage").fullpage({
-        sectionsColor: ['#fff', '#09f', '#fff', '#09f', '#fff'],
+        sectionsColor: ['#fff', '#333333', '#fff', '#333333', '#fff'],
         anchors: ['home', 'problem', 'design', 'team', 'documents'],
         menu: "#menu",
         slidesNavigation: true,
@@ -29,7 +29,7 @@
 </head>
 <body>
   <ul id="menu">
-    <li data-menuanchor="home"><a href="#home">Resonance</a></li>
+    <li data-menuanchor="home" id="logo"><a href="#home">Resonance</a></li>
     <li data-menuanchor="problem"><a href="#problem">Problem</a></li>
     <li data-menuanchor="design"><a href="#design">Design</a></li>
     <li data-menuanchor="team"><a href="#team">Team</a></li>
@@ -39,16 +39,16 @@
   <div id="fullpage">
     <div class="section" id="titlesection">
       <div class="intro">
-        <h1>Resonance</h1>
+        <h1><span>Resonance</span></h1>
         <h1>Music, together.</h1>
       </div>
     </div>
     <div class="section" id="problemsection">
       <div class="intro">
         <h2>The Problem</h2>
-        <p>Playing music in a group setting can be challenging for students during creative work sessions. Collecting feedback and dynamically selecting songs to queue in these environments is often difficult and distracting.</p>
+        <p>Playing music in a group setting can be challenging for students during creative work sessions. Collecting feedback and dynamically selecting music to queue in these busy environments is often difficult and distracting. Our users desire more seamless ways to play music in collaborative settings.</p>
         <h2>Our Solution</h2>
-        <p>Resonance is a smart speaker accessory that will make the hard music decisions for the group, like magic. It provides music recommendations in real-time based on user feedback and suggestions—minimize distractions, maximize productivity.</p>
+        <p>Resonance is a smart speaker accessory that will make the hard music decisions for the group, like magic. It provides music recommendations in real-time based on user feedback and suggestions, minimizing distractions and maximizing productivity.</p>
       </div>
     </div>
     <div class="section" id="designsection">
@@ -66,7 +66,7 @@
           <img src="img/guest_onboarding.jpg" class="featureimg">
           <div class="right">
             <h2>Join the Party</h2>
-            <p>Simply tap the Resonance device with your smartphone to join the session and have your feedback count. No app download required.</p>
+            <p>Simply tap the Resonance device with your smartphone to join the session and have your feedback count—no app download required.</p>
           </div>
         </div>
       </div>
@@ -76,6 +76,15 @@
           <div class="right">
             <h2>Host Experience</h2>
             <p>Resonance is fully capable of handling the DJ responsiblites so you as the host can focus on more important things. Don't want to take a backseat? There's a full set of optional controls so you can micromanage to your heart's content.</p>
+          </div>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="intro">
+          <img src="img/node.PNG" class="featureimg">
+          <div class="right">
+            <h2>Smart Speaker</h2>
+            <p>The Resonance device contains the algorithm that instantly turns any ordinary speaker into a smart speaker. Its sleek design is easy to set up and easy to use for host and guests: just tap to start!</p>
           </div>
         </div>
       </div>
