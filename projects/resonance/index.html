@@ -11,10 +11,10 @@
   <script type="text/javascript" src="jquery.fullPage.js"></script>
   <script type="text/javascript">
     $(document).ready(function() {
-      var sections = ['home', 'problem', 'design', 'team', 'documents'];
+      var sections = ['home', 'problem', 'design', 'process', 'team', 'documents'];
       $("#fullpage").fullpage({
-        sectionsColor: ['#fff', '#333333', '#fff', '#333333', '#fff'],
-        anchors: ['home', 'problem', 'design', 'team', 'documents'],
+        sectionsColor: ['#fff', '#333333', '#fff', '#fff', '#333333', '#fff'],
+        anchors: ['home', 'problem', 'design', 'process', 'team', 'documents'],
         menu: "#menu",
         slidesNavigation: true,
         scrollingSpeed: 1000,
@@ -32,6 +32,7 @@
     <li data-menuanchor="home" id="logo"><a href="#home">Resonance</a></li>
     <li data-menuanchor="problem"><a href="#problem">Problem</a></li>
     <li data-menuanchor="design"><a href="#design">Design</a></li>
+    <li data-menuanchor="process"><a href="#process">Process</a></li>
     <li data-menuanchor="team"><a href="#team">Team</a></li>
     <li data-menuanchor="documents"><a href="#documents">Documents</a></li>
     <li class="logo"><a href="#home"><img src="img/icon.png"></a></li>
@@ -89,6 +90,53 @@
         </div>
       </div>
     </div>
+    <div class="section" id="processsection">
+      <div class="slide">
+        <div class="intro">
+          <img src="img/random_user.jpg" class="featureimg">
+          <div class="right">
+            <h2>1. User Research</h2>
+            <p>We first conducted user research to explore the problem space and to narrowly define our target users: students in creative majors.<br><br>We conducted interviews with three different students and discovered two important tasks: 1) dynamically playing music and 2) providing non-disruptive feedback.</p>
+          </div>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="intro">
+          <img src="img/initial_paper.JPG" class="featureimg">
+          <div class="right">
+            <h2>2. Initial Paper Prototype</h2>
+            <p>We then created a design in three components that would help users complete our primary tasks. There was a host application, a guest lockscreen widget, and physical device responsible for speaker connection and user onboarding.</p>
+          </div>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="intro">
+          <img src="img/usability_test.jpg" class="featureimg">
+          <div class="right">
+            <h2>3. Usability Tests</h2>
+            <p>With our initial paper prototype, we conducted usability tests with our target users and discovered concerns about the necessity of the physical device and confusion about the host onboarding process.</p>
+          </div>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="intro">
+          <img src="img/final_paper.JPG" class="featureimg">
+          <div class="right">
+            <h2>4. Final Paper Prototype</h2>
+            <p>Our final paper prototype overhauled the host application in favor of a host lockscreen widget, similar to that of the guest. The physical device was broken into two components to help clarify the host setup process and to give guests an easier way to connect.</p>
+          </div>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="intro">
+          <img src="img/guest_queue.jpg" class="featureimg">
+          <div class="right">
+            <h2>5. Digital Prototype</h2>
+            <p>We then worked on translating our paper prototype into a beautiful, minimal digital prototype. Small technical details were added to truly make the design polished and feasible.</p>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="section" id="teamsection">
       <div class="intro">
         <h2>The Resonance Team</h2>
@@ -134,6 +182,10 @@
           <li>
             <a href="files/final_report.pdf"><img src="img/document.png" class="docimg"></a>
             <h4>Final Report</h4>
+          </li>
+          <li>
+            <a href="files/presentation.pdf"><img src="img/powerpoint.png" class="docimg"></a>
+            <h4>Presentation</h4>
           </li>
         </ul>
       </center>
