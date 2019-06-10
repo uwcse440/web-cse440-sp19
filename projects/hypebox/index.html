@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <!-- Details -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="University of Washington - CSE 440 Project. Disrupting the way the world buys and sells in an informal marketplace.">
+  <meta name="author" content="Karan Narula, Jonathon Henriksen, Shourya Jain, Silin Zeng">
+
+  <title>hypebox</title>
+  <link rel="icon" href="./tab_thumb.png">
+
+  <!-- CSS -->
+  <link href="./css/bootstrap.css" rel="stylesheet">
+  <link href="./css/base.css" rel="stylesheet">
+  <link href="./css/index.css" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- JQuery -->
+  <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>
+  <script src='./js/random_box_color_filter.js'></script>
+
+  <script>
+    $(document).ready(function() {
+      // updates .hype-clock every minute
+      var f = function() {
+        var now = new Date();
+        var month = now.getMonth() + 1, day = now.getDate(), year = now.getFullYear(),
+            hour = now.getHours(), minute = now.getMinutes();
+        $('.hype-clock').text(
+          (month < 10 ? '0' : '') + month + '/' + (day < 10 ? '0' : '') + day + '/' + year + ' ' +
+          (hour < 10 ? '0' : '') + hour + ':' + (minute < 10 ? '0' : '') + minute + (hour >= 12 ? 'pm' : 'am') + ' SEA');
+      };
+
+      f();
+      setInterval(f, 60 * 1000);
+
+      $('body').removeClass('fade');
+    });
+  </script>
+</head>
+
+<body id="page-top" class="container d-flex align-items-center justify-content-center">
+  <script>document.body.className += ' fade';</script>
+  <div id="page-background"></div>
+
+  <div class="container-fluid p-0 d-flex align-items-center justify-content-center">
+    <div class="col-2"></div>
+    <div class="d-flex align-items-center justify-content-end flex-column col-2">
+        <img src="./assets/logo/stroke_transparent.png" class="hypebox_trans">
+    </div>
+    <div class="d-flex align-items-center justify-content-center flex-column col-4 container">
+      <div class="col-1"></div>
+      <div class="d-flex align-items-center justify-content-center flex-column col-10">
+        <div class="d-flex align-items-center justify-content-center flex-column">
+          <span class="hype-text">Hypebox</span>
+        </div>
+        <div class="d-flex align-items-start flex-column">
+          <span class="hype-clock mb-5">06/02/2019 11:00pm NYC</span>
+          <ul class="hype-navigator">
+	     <li><a href="./pages/about.html">about</a></li>
+	     <li><a href="./pages/hooks.html">hooks</a></li>
+            <li><a href="./pages/buyingselling.html">buying and selling</a></li>
+            <li><a href="./pages/team.html">team</a></li>
+          </ul>
+          
+          <div class="social-icons mt-4">
+              <a href="https://medium.com/@silinszeng/hypebox-140e6aae9ff6">
+                <i class="fab fa-medium"></i>
+              </a>
+              <a href="https://github.com/narulaskaran/web-cse440-sp19/tree/master/projects/hypebox">
+                <i class="fab fa-github"></i>
+              </a>
+              <a href="https://www.instagram.com/djkhaled/">
+                <i class="fab fa-instagram"></i>
+              </a>
+            </div>
+
+        </div>
+      </div>
+      <div class="col-1"></div>
+    </div>
+    <div class="col-4"></div>
+  </div>
+</body>
+
+</html>
