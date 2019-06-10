@@ -1,0 +1,49 @@
+.hype-text {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    font-size: 24pt;
+    font-style: italic;
+    color: white;
+    background-color: red;
+    padding: 1px 4px;
+    letter-spacing: 0px;
+}
+
+.hype-clock {
+    font-family: 'Courier New', monospace;
+    font-size: 11pt;
+    padding-top: 8px;
+}
+
+.team_holder {
+    display: inline-block;
+}
+
+.resume-section {
+    height: 100vh;
+}
+  
+.resume-content {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+body {
+    opacity: 1;
+    transition: 1s opacity;
+}
+
+body.fade {
+    opacity: 0;
+    transition: none;
+}
+
+body.fade-out {
+    opacity: 0;
+    transition: 1s;
+}
