@@ -1,31 +1,31 @@
 projects:
-#   - name: "CODr"
-#     path: codr
-#     publishlink: true
-#   - name: "DigiFam"
-#     path: DigiFam
-#     publishlink: true
-#   - name: "Fika"
-#     path: fika
-#     publishlink: true
-#   - name: "Foodalytics"
-#     path: foodalytics
-#     publishlink: true
-#   - name: "Learnable"
-#     path: learnable
-#     publishlink: true
-#   - name: "Meetbright"
-#     path: Meetbright
-#     publishlink: true
-#   - name: "Quility"
-#     path: Quility
-#     publishlink: true
-#   - name: "RightUp"
-#     path: RightUp
-#     publishlink: true
-#   - name: "SnapCart"
-#     path: SnapCart
-#     publishlink: true
+   - name: "Hypebox"
+     path: hypebox
+     publishlink: true
+   - name: "Cabin"
+     path: cabin
+     publishlink: true
+   - name: "FoQus"
+     path: FoQus
+     publishlink: true
+   - name: "Hermes"
+     path: hermes
+     publishlink: true
+   - name: "Resonance"
+     path: resonance
+     publishlink: true
+   - name: "Astro"
+     path: Astro
+     publishlink: true
+   - name: "Time Man"
+     path: TimeMan
+     publishlink: true
+   - name: "World Record"
+     path: WorldRecord
+     publishlink: true
+   - name: "Smart Mirror"
+     path: SmartMirror
+     publishlink: true
 #   - name: "Sounder Transit"
 #     path: sounder-transit
 #     publishlink: true
