@@ -26,9 +26,9 @@ projects:
    - name: "Smart Mirror"
      path: SmartMirror
      publishlink: true
-#   - name: "Sounder Transit"
-#     path: sounder-transit
-#     publishlink: true
+   - name: "Roll With It"
+     path: RollWithIt
+     publishlink: true
 #   - name: "Veterist"
 #     path: veterist
 #     publishlink: true
