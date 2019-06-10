@@ -1,0 +1,73 @@
+html {
+   padding: 0px;
+   margin: 0px;
+}
+body {
+   font-family: sans-serif;
+   background-color: white;
+   padding: 0px;
+   margin: 0px;
+}
+li {
+  margin-bottom: 10px;
+}
+iframe {
+  margin: auto;
+  display: block;
+}
+a, p, li{
+   font-size: 14pt;
+   color: black;
+}
+p {
+  padding: 10pt;
+  line-height: 1.5;
+  text-align: left;
+}
+h1 {
+   font-size: 18pt;
+   text-align: center;
+}
+h2 {
+   font-size: 14pt;
+   padding: 10pt;
+}
+header {
+   background-color: #dedef5;
+   margin: 0px;
+   padding: 0px;
+}
+q {
+   font-style: italic;
+   font-weight: normal;
+}
+img {
+   max-width: 100%
+}
+.container {
+   margin: auto;
+   max-width: 66.67%;
+   margin-top: 14pt;
+}
+.center{
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+}
+#clockIcon {
+   height: 40pt;
+   width: 40pt;
+}
+#phone {
+   width: 100%;
+   margin: 0px;
+}
+#navBar {
+   margin: 0px;
+   padding: 10pt;
+}
+#navBar > a {
+   font-size: 20pt;
+   color: blue;
+   text-decoration: none;
+}
